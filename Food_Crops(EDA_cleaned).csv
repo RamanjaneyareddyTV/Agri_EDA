@@ -1,0 +1,1146 @@
+,Produce_Variety,Commodity_Type,Unit,Volume_in_Kgs,Values_in_Ksh,Date,produce_variety,Type_of_Commodity,Package_Type,package_weight(Kg),Day,Month,Year,Price
+0,Horticulture,Cabbages,Ext Bag,126,KES2205.00,01/01/2012,1,5,2,126,1,1,2012,2205.0
+1,Horticulture,Cooking Bananas,Med Bunch,22,KES511.00,01/01/2012,1,11,4,22,1,1,2012,511.0
+2,Horticulture,Ripe Bananas,Med Bunch,14,KES616.00,01/01/2012,1,34,4,14,1,1,2012,616.0
+3,Horticulture,Carrots,Ext Bag,138,KES2833.00,01/01/2012,1,7,2,138,1,1,2012,2833.0
+4,Horticulture,Tomatoes,Lg Box,64,KES3411.00,01/01/2012,1,38,3,64,1,1,2012,3411.0
+5,Horticulture,Onions Dry,net,13,KES1043.00,01/01/2012,1,28,7,13,1,1,2012,1043.0
+6,Horticulture,Spring Onions,Bag,142,KES1997.00,01/01/2012,1,36,0,142,1,1,2012,1997.0
+7,Horticulture,Chillies,Bag,38,KES2163.00,01/01/2012,1,10,0,38,1,1,2012,2163.0
+8,Horticulture,Cucumber,Bag,50,KES2377.00,01/01/2012,1,13,0,50,1,1,2012,2377.0
+9,Horticulture,Capsicums,Bag,50,KES2349.00,01/01/2012,1,6,0,50,1,1,2012,2349.0
+10,Horticulture,Brinjals,Bag,44,KES1614.00,01/01/2012,1,4,0,44,1,1,2012,1614.0
+11,Horticulture,Cauliflower,crate,39,KES2737.00,01/01/2012,1,9,6,39,1,1,2012,2737.0
+12,Horticulture,Lettuce,Bag,51,KES2833.00,01/01/2012,1,23,0,51,1,1,2012,2833.0
+13,Horticulture,Passion Fruits,Bag,57,KES4063.00,01/01/2012,1,30,0,57,1,1,2012,4063.0
+14,Horticulture,Oranges,Bag,93,KES2757.00,01/01/2012,1,29,0,93,1,1,2012,2757.0
+15,Horticulture,Lemons,Bag,95,KES1445.00,01/01/2012,1,22,0,95,1,1,2012,1445.0
+16,Horticulture,Mangoes Local,Bag,126,KES1514.00,01/01/2012,1,25,0,126,1,1,2012,1514.0
+17,Horticulture,Mangoes Ngowe,Sm Basket,25,KES785.00,01/01/2012,1,26,5,25,1,1,2012,785.0
+18,Horticulture,Limes,net,13,KES570.00,01/01/2012,1,24,7,13,1,1,2012,570.0
+19,Horticulture,Pineapples,Dozen,13,KES748.00,01/01/2012,1,32,1,13,1,1,2012,748.0
+20,Horticulture,Pawpaw,Lg Box,54,KES1392.00,01/01/2012,1,31,3,54,1,1,2012,1392.0
+21,Horticulture,Avocado,Bag,90,KES2232.00,01/01/2012,1,0,0,90,1,1,2012,2232.0
+22,Horticulture,Kales,Bag,50,KES1328.00,01/01/2012,1,21,0,50,1,1,2012,1328.0
+23,Horticulture,Cabbages,Ext Bag,126,KES2739.00,02/01/2012,1,5,2,126,1,2,2012,2739.0
+24,Horticulture,Cooking Bananas,Med Bunch,22,KES531.00,02/01/2012,1,11,4,22,1,2,2012,531.0
+25,Horticulture,Ripe Bananas,Med Bunch,14,KES570.00,02/01/2012,1,34,4,14,1,2,2012,570.0
+26,Horticulture,Carrots,Ext Bag,138,KES2754.00,02/01/2012,1,7,2,138,1,2,2012,2754.0
+27,Horticulture,Tomatoes,Lg Box,64,KES4100.00,02/01/2012,1,38,3,64,1,2,2012,4100.0
+28,Horticulture,Onions Dry,net,13,KES863.00,02/01/2012,1,28,7,13,1,2,2012,863.0
+29,Horticulture,Spring Onions,Bag,142,KES2142.00,02/01/2012,1,36,0,142,1,2,2012,2142.0
+30,Horticulture,Chillies,Bag,38,KES2610.00,02/01/2012,1,10,0,38,1,2,2012,2610.0
+31,Horticulture,Cucumber,Bag,50,KES1598.00,02/01/2012,1,13,0,50,1,2,2012,1598.0
+32,Horticulture,Capsicums,Bag,50,KES2727.00,02/01/2012,1,6,0,50,1,2,2012,2727.0
+33,Horticulture,Brinjals,Bag,44,KES1578.00,02/01/2012,1,4,0,44,1,2,2012,1578.0
+34,Horticulture,Cauliflower,crate,39,KES2933.00,02/01/2012,1,9,6,39,1,2,2012,2933.0
+35,Horticulture,Lettuce,Bag,51,KES2863.00,02/01/2012,1,23,0,51,1,2,2012,2863.0
+36,Horticulture,Passion Fruits,Bag,57,KES3512.00,02/01/2012,1,30,0,57,1,2,2012,3512.0
+37,Horticulture,Oranges,Bag,93,KES2880.00,02/01/2012,1,29,0,93,1,2,2012,2880.0
+38,Horticulture,Lemons,Bag,95,KES1433.00,02/01/2012,1,22,0,95,1,2,2012,1433.0
+39,Horticulture,Mangoes Local,Bag,126,KES1726.00,02/01/2012,1,25,0,126,1,2,2012,1726.0
+40,Horticulture,Mangoes Ngowe,Sm Basket,25,KES817.00,02/01/2012,1,26,5,25,1,2,2012,817.0
+41,Horticulture,Limes,net,13,KES544.00,02/01/2012,1,24,7,13,1,2,2012,544.0
+42,Horticulture,Pineapples,Dozen,13,KES695.00,02/01/2012,1,32,1,13,1,2,2012,695.0
+43,Horticulture,Pawpaw,Lg Box,54,KES1535.00,02/01/2012,1,31,3,54,1,2,2012,1535.0
+44,Horticulture,Avocado,Bag,90,KES2439.00,02/01/2012,1,0,0,90,1,2,2012,2439.0
+45,Horticulture,Kales,Bag,50,KES1985.00,02/01/2012,1,21,0,50,1,2,2012,1985.0
+46,Horticulture,Cabbages,Ext Bag,126,KES3049.00,03/01/2012,1,5,2,126,1,3,2012,3049.0
+47,Horticulture,Cooking Bananas,Med Bunch,22,KES570.00,03/01/2012,1,11,4,22,1,3,2012,570.0
+48,Horticulture,Ripe Bananas,Med Bunch,14,KES635.00,03/01/2012,1,34,4,14,1,3,2012,635.0
+49,Horticulture,Carrots,Ext Bag,138,KES3223.00,03/01/2012,1,7,2,138,1,3,2012,3223.0
+50,Horticulture,Tomatoes,Lg Box,64,KES3685.00,03/01/2012,1,38,3,64,1,3,2012,3685.0
+51,Horticulture,Onions Dry,net,13,KES992.00,03/01/2012,1,28,7,13,1,3,2012,992.0
+52,Horticulture,Spring Onions,Bag,142,KES1981.00,03/01/2012,1,36,0,142,1,3,2012,1981.0
+53,Horticulture,Chillies,Bag,38,KES2954.00,03/01/2012,1,10,0,38,1,3,2012,2954.0
+54,Horticulture,Cucumber,Bag,50,KES2413.00,03/01/2012,1,13,0,50,1,3,2012,2413.0
+55,Horticulture,Capsicums,Bag,50,KES3247.00,03/01/2012,1,6,0,50,1,3,2012,3247.0
+56,Horticulture,Brinjals,Bag,44,KES1559.00,03/01/2012,1,4,0,44,1,3,2012,1559.0
+57,Horticulture,Cauliflower,crate,39,KES2018.00,03/01/2012,1,9,6,39,1,3,2012,2018.0
+58,Horticulture,Lettuce,Bag,51,KES2939.00,03/01/2012,1,23,0,51,1,3,2012,2939.0
+59,Horticulture,Passion Fruits,Bag,57,KES3351.00,03/01/2012,1,30,0,57,1,3,2012,3351.0
+60,Horticulture,Oranges,Bag,93,KES3075.00,03/01/2012,1,29,0,93,1,3,2012,3075.0
+61,Horticulture,Lemons,Bag,95,KES1300.00,03/01/2012,1,22,0,95,1,3,2012,1300.0
+62,Horticulture,Mangoes Local,Bag,126,KES2015.00,03/01/2012,1,25,0,126,1,3,2012,2015.0
+63,Horticulture,Mangoes Ngowe,Sm Basket,25,KES1130.00,03/01/2012,1,26,5,25,1,3,2012,1130.0
+64,Horticulture,Limes,net,13,KES541.00,03/01/2012,1,24,7,13,1,3,2012,541.0
+65,Horticulture,Pineapples,Dozen,13,KES748.00,03/01/2012,1,32,1,13,1,3,2012,748.0
+66,Horticulture,Pawpaw,Lg Box,54,KES1503.00,03/01/2012,1,31,3,54,1,3,2012,1503.0
+67,Horticulture,Avocado,Bag,90,KES2252.00,03/01/2012,1,0,0,90,1,3,2012,2252.0
+68,Horticulture,Kales,Bag,50,KES2049.00,03/01/2012,1,21,0,50,1,3,2012,2049.0
+69,Horticulture,Cabbages,Ext Bag,126,KES2625.00,04/01/2012,1,5,2,126,1,4,2012,2625.0
+70,Horticulture,Cooking Bananas,Med Bunch,22,KES543.00,04/01/2012,1,11,4,22,1,4,2012,543.0
+71,Horticulture,Ripe Bananas,Med Bunch,14,KES623.00,04/01/2012,1,34,4,14,1,4,2012,623.0
+72,Horticulture,Carrots,Ext Bag,138,KES3536.00,04/01/2012,1,7,2,138,1,4,2012,3536.0
+73,Horticulture,Tomatoes,Lg Box,64,KES2820.00,04/01/2012,1,38,3,64,1,4,2012,2820.0
+74,Horticulture,Onions Dry,net,13,KES1174.00,04/01/2012,1,28,7,13,1,4,2012,1174.0
+75,Horticulture,Spring Onions,Bag,142,KES1833.00,04/01/2012,1,36,0,142,1,4,2012,1833.0
+76,Horticulture,Chillies,Bag,38,KES2769.00,04/01/2012,1,10,0,38,1,4,2012,2769.0
+77,Horticulture,Cucumber,Bag,50,KES2207.00,04/01/2012,1,13,0,50,1,4,2012,2207.0
+78,Horticulture,Capsicums,Bag,50,KES2889.00,04/01/2012,1,6,0,50,1,4,2012,2889.0
+79,Horticulture,Brinjals,Bag,44,KES1692.00,04/01/2012,1,4,0,44,1,4,2012,1692.0
+80,Horticulture,Cauliflower,crate,39,KES2865.00,04/01/2012,1,9,6,39,1,4,2012,2865.0
+81,Horticulture,Lettuce,Bag,51,KES3729.00,04/01/2012,1,23,0,51,1,4,2012,3729.0
+82,Horticulture,Passion Fruits,Bag,57,KES3589.00,04/01/2012,1,30,0,57,1,4,2012,3589.0
+83,Horticulture,Oranges,Bag,93,KES2792.00,04/01/2012,1,29,0,93,1,4,2012,2792.0
+84,Horticulture,Lemons,Bag,95,KES1199.00,04/01/2012,1,22,0,95,1,4,2012,1199.0
+85,Horticulture,Mangoes Local,Bag,126,KES1993.00,04/01/2012,1,25,0,126,1,4,2012,1993.0
+86,Horticulture,Mangoes Ngowe,Sm Basket,25,KES1069.00,04/01/2012,1,26,5,25,1,4,2012,1069.0
+87,Horticulture,Limes,net,13,KES601.00,04/01/2012,1,24,7,13,1,4,2012,601.0
+88,Horticulture,Pineapples,Dozen,13,KES747.00,04/01/2012,1,32,1,13,1,4,2012,747.0
+89,Horticulture,Pawpaw,Lg Box,54,KES1538.00,04/01/2012,1,31,3,54,1,4,2012,1538.0
+90,Horticulture,Avocado,Bag,90,KES2044.00,04/01/2012,1,0,0,90,1,4,2012,2044.0
+91,Horticulture,Kales,Bag,50,KES1580.00,04/01/2012,1,21,0,50,1,4,2012,1580.0
+92,Horticulture,Cabbages,Ext Bag,126,KES2105.00,05/01/2012,1,5,2,126,1,5,2012,2105.0
+93,Horticulture,Cooking Bananas,Med Bunch,22,KES565.00,05/01/2012,1,11,4,22,1,5,2012,565.0
+94,Horticulture,Ripe Bananas,Med Bunch,14,KES630.00,05/01/2012,1,34,4,14,1,5,2012,630.0
+95,Horticulture,Carrots,Ext Bag,138,KES3752.00,05/01/2012,1,7,2,138,1,5,2012,3752.0
+96,Horticulture,Tomatoes,Lg Box,64,KES3302.00,05/01/2012,1,38,3,64,1,5,2012,3302.0
+97,Horticulture,Onions Dry,net,13,KES1153.00,05/01/2012,1,28,7,13,1,5,2012,1153.0
+98,Horticulture,Spring Onions,Bag,142,KES1793.00,05/01/2012,1,36,0,142,1,5,2012,1793.0
+99,Horticulture,Chillies,Bag,38,KES2889.00,05/01/2012,1,10,0,38,1,5,2012,2889.0
+100,Horticulture,Cucumber,Bag,50,KES2072.00,05/01/2012,1,13,0,50,1,5,2012,2072.0
+101,Horticulture,Capsicums,Bag,50,KES2758.00,05/01/2012,1,6,0,50,1,5,2012,2758.0
+102,Horticulture,Brinjals,Bag,44,KES1390.00,05/01/2012,1,4,0,44,1,5,2012,1390.0
+103,Horticulture,Cauliflower,crate,39,KES2969.00,05/01/2012,1,9,6,39,1,5,2012,2969.0
+104,Horticulture,Lettuce,Bag,51,KES3390.00,05/01/2012,1,23,0,51,1,5,2012,3390.0
+105,Horticulture,Passion Fruits,Bag,57,KES3633.00,05/01/2012,1,30,0,57,1,5,2012,3633.0
+106,Horticulture,Oranges,Bag,93,KES2708.00,05/01/2012,1,29,0,93,1,5,2012,2708.0
+107,Horticulture,Lemons,Bag,95,KES1461.00,05/01/2012,1,22,0,95,1,5,2012,1461.0
+108,Horticulture,Mangoes Local,Bag,126,KES1960.00,05/01/2012,1,25,0,126,1,5,2012,1960.0
+109,Horticulture,Mangoes Ngowe,Sm Basket,25,KES1132.00,05/01/2012,1,26,5,25,1,5,2012,1132.0
+110,Horticulture,Limes,net,13,KES681.00,05/01/2012,1,24,7,13,1,5,2012,681.0
+111,Horticulture,Pineapples,Dozen,13,KES788.00,05/01/2012,1,32,1,13,1,5,2012,788.0
+112,Horticulture,Pawpaw,Lg Box,54,KES1428.00,05/01/2012,1,31,3,54,1,5,2012,1428.0
+113,Horticulture,Avocado,Bag,90,KES1939.00,05/01/2012,1,0,0,90,1,5,2012,1939.0
+114,Horticulture,Kales,Bag,50,KES1206.00,05/01/2012,1,21,0,50,1,5,2012,1206.0
+115,Horticulture,Cabbages,Ext Bag,126,KES2221.00,06/01/2012,1,5,2,126,1,6,2012,2221.0
+116,Horticulture,Cooking Bananas,Med Bunch,22,KES589.00,06/01/2012,1,11,4,22,1,6,2012,589.0
+117,Horticulture,Ripe Bananas,Med Bunch,14,KES659.00,06/01/2012,1,34,4,14,1,6,2012,659.0
+118,Horticulture,Carrots,Ext Bag,138,KES4147.00,06/01/2012,1,7,2,138,1,6,2012,4147.0
+119,Horticulture,Tomatoes,Lg Box,64,KES4172.00,06/01/2012,1,38,3,64,1,6,2012,4172.0
+120,Horticulture,Onions Dry,net,13,KES1229.00,06/01/2012,1,28,7,13,1,6,2012,1229.0
+121,Horticulture,Spring Onions,Bag,142,KES1993.00,06/01/2012,1,36,0,142,1,6,2012,1993.0
+122,Horticulture,Chillies,Bag,38,KES2658.00,06/01/2012,1,10,0,38,1,6,2012,2658.0
+123,Horticulture,Cucumber,Bag,50,KES1893.00,06/01/2012,1,13,0,50,1,6,2012,1893.0
+124,Horticulture,Capsicums,Bag,50,KES2758.00,06/01/2012,1,6,0,50,1,6,2012,2758.0
+125,Horticulture,Brinjals,Bag,44,KES1606.00,06/01/2012,1,4,0,44,1,6,2012,1606.0
+126,Horticulture,Cauliflower,crate,39,KES2147.00,06/01/2012,1,9,6,39,1,6,2012,2147.0
+127,Horticulture,Lettuce,Bag,51,KES3281.00,06/01/2012,1,23,0,51,1,6,2012,3281.0
+128,Horticulture,Passion Fruits,Bag,57,KES3636.00,06/01/2012,1,30,0,57,1,6,2012,3636.0
+129,Horticulture,Oranges,Bag,93,KES2410.00,06/01/2012,1,29,0,93,1,6,2012,2410.0
+130,Horticulture,Lemons,Bag,95,KES1767.00,06/01/2012,1,22,0,95,1,6,2012,1767.0
+131,Horticulture,Mangoes Local,Bag,126,KES2018.00,06/01/2012,1,25,0,126,1,6,2012,2018.0
+132,Horticulture,Mangoes Ngowe,Sm Basket,25,KES1004.00,06/01/2012,1,26,5,25,1,6,2012,1004.0
+133,Horticulture,Limes,net,13,KES655.00,06/01/2012,1,24,7,13,1,6,2012,655.0
+134,Horticulture,Pineapples,Dozen,13,KES851.00,06/01/2012,1,32,1,13,1,6,2012,851.0
+135,Horticulture,Pawpaw,Lg Box,54,KES1406.00,06/01/2012,1,31,3,54,1,6,2012,1406.0
+136,Horticulture,Avocado,Bag,90,KES1971.00,06/01/2012,1,0,0,90,1,6,2012,1971.0
+137,Horticulture,Kales,Bag,50,KES1272.00,06/01/2012,1,21,0,50,1,6,2012,1272.0
+138,Horticulture,Cabbages,Ext Bag,126,KES2034.00,07/01/2012,1,5,2,126,1,7,2012,2034.0
+139,Horticulture,Cooking Bananas,Med Bunch,22,KES544.00,07/01/2012,1,11,4,22,1,7,2012,544.0
+140,Horticulture,Ripe Bananas,Med Bunch,14,KES582.00,07/01/2012,1,34,4,14,1,7,2012,582.0
+141,Horticulture,Carrots,Ext Bag,138,KES4534.00,07/01/2012,1,7,2,138,1,7,2012,4534.0
+142,Horticulture,Tomatoes,Lg Box,64,KES2602.00,07/01/2012,1,38,3,64,1,7,2012,2602.0
+143,Horticulture,Onions Dry,net,13,KES1004.00,07/01/2012,1,28,7,13,1,7,2012,1004.0
+144,Horticulture,Spring Onions,Bag,142,KES2103.00,07/01/2012,1,36,0,142,1,7,2012,2103.0
+145,Horticulture,Chillies,Bag,38,KES2785.00,07/01/2012,1,10,0,38,1,7,2012,2785.0
+146,Horticulture,Cucumber,Bag,50,KES1917.00,07/01/2012,1,13,0,50,1,7,2012,1917.0
+147,Horticulture,Capsicums,Bag,50,KES2552.00,07/01/2012,1,6,0,50,1,7,2012,2552.0
+148,Horticulture,Brinjals,Bag,44,KES1592.00,07/01/2012,1,4,0,44,1,7,2012,1592.0
+149,Horticulture,Cauliflower,crate,39,KES2744.00,07/01/2012,1,9,6,39,1,7,2012,2744.0
+150,Horticulture,Lettuce,Bag,51,KES3563.00,07/01/2012,1,23,0,51,1,7,2012,3563.0
+151,Horticulture,Passion Fruits,Bag,57,KES3726.00,07/01/2012,1,30,0,57,1,7,2012,3726.0
+152,Horticulture,Oranges,Bag,93,KES2413.00,07/01/2012,1,29,0,93,1,7,2012,2413.0
+153,Horticulture,Lemons,Bag,95,KES1695.00,07/01/2012,1,22,0,95,1,7,2012,1695.0
+154,Horticulture,Mangoes Local,Bag,126,KES1750.00,07/01/2012,1,25,0,126,1,7,2012,1750.0
+155,Horticulture,Mangoes Ngowe,Sm Basket,25,KES1063.00,07/01/2012,1,26,5,25,1,7,2012,1063.0
+156,Horticulture,Limes,net,13,KES602.00,07/01/2012,1,24,7,13,1,7,2012,602.0
+157,Horticulture,Pineapples,Dozen,13,KES831.00,07/01/2012,1,32,1,13,1,7,2012,831.0
+158,Horticulture,Pawpaw,Lg Box,54,KES1432.00,07/01/2012,1,31,3,54,1,7,2012,1432.0
+159,Horticulture,Avocado,Bag,90,KES1741.00,07/01/2012,1,0,0,90,1,7,2012,1741.0
+160,Horticulture,Kales,Bag,50,KES824.00,07/01/2012,1,21,0,50,1,7,2012,824.0
+161,Horticulture,Cabbages,Ext Bag,126,KES1905.00,08/01/2012,1,5,2,126,1,8,2012,1905.0
+162,Horticulture,Cooking Bananas,Med Bunch,22,KES572.00,08/01/2012,1,11,4,22,1,8,2012,572.0
+163,Horticulture,Ripe Bananas,Med Bunch,14,KES542.00,08/01/2012,1,34,4,14,1,8,2012,542.0
+164,Horticulture,Carrots,Ext Bag,138,KES3850.00,08/01/2012,1,7,2,138,1,8,2012,3850.0
+165,Horticulture,Tomatoes,Lg Box,64,KES2576.00,08/01/2012,1,38,3,64,1,8,2012,2576.0
+166,Horticulture,Onions Dry,net,13,KES887.00,08/01/2012,1,28,7,13,1,8,2012,887.0
+167,Horticulture,Spring Onions,Bag,142,KES1975.00,08/01/2012,1,36,0,142,1,8,2012,1975.0
+168,Horticulture,Chillies,Bag,38,KES2652.00,08/01/2012,1,10,0,38,1,8,2012,2652.0
+169,Horticulture,Cucumber,Bag,50,KES1572.00,08/01/2012,1,13,0,50,1,8,2012,1572.0
+170,Horticulture,Capsicums,Bag,50,KES2769.00,08/01/2012,1,6,0,50,1,8,2012,2769.0
+171,Horticulture,Brinjals,Bag,44,KES1544.00,08/01/2012,1,4,0,44,1,8,2012,1544.0
+172,Horticulture,Cauliflower,crate,39,KES2408.00,08/01/2012,1,9,6,39,1,8,2012,2408.0
+173,Horticulture,Lettuce,Bag,51,KES4246.00,08/01/2012,1,23,0,51,1,8,2012,4246.0
+174,Horticulture,Passion Fruits,Bag,57,KES3291.00,08/01/2012,1,30,0,57,1,8,2012,3291.0
+175,Horticulture,Oranges,Bag,93,KES2736.00,08/01/2012,1,29,0,93,1,8,2012,2736.0
+176,Horticulture,Lemons,Bag,95,KES1749.00,08/01/2012,1,22,0,95,1,8,2012,1749.0
+177,Horticulture,Mangoes Local,Bag,126,KES1791.00,08/01/2012,1,25,0,126,1,8,2012,1791.0
+178,Horticulture,Mangoes Ngowe,Sm Basket,25,KES1013.00,08/01/2012,1,26,5,25,1,8,2012,1013.0
+179,Horticulture,Limes,net,13,KES817.00,08/01/2012,1,24,7,13,1,8,2012,817.0
+180,Horticulture,Pineapples,Dozen,13,KES698.00,08/01/2012,1,32,1,13,1,8,2012,698.0
+181,Horticulture,Pawpaw,Lg Box,54,KES1388.00,08/01/2012,1,31,3,54,1,8,2012,1388.0
+182,Horticulture,Avocado,Bag,90,KES1634.00,08/01/2012,1,0,0,90,1,8,2012,1634.0
+183,Horticulture,Kales,Bag,50,KES682.00,08/01/2012,1,21,0,50,1,8,2012,682.0
+184,Horticulture,Cabbages,Ext Bag,126,KES1792.00,09/01/2012,1,5,2,126,1,9,2012,1792.0
+185,Horticulture,Cooking Bananas,Med Bunch,22,KES571.00,09/01/2012,1,11,4,22,1,9,2012,571.0
+186,Horticulture,Ripe Bananas,Med Bunch,14,KES573.00,09/01/2012,1,34,4,14,1,9,2012,573.0
+187,Horticulture,Carrots,Ext Bag,138,KES3261.00,09/01/2012,1,7,2,138,1,9,2012,3261.0
+188,Horticulture,Tomatoes,Lg Box,64,KES2602.00,09/01/2012,1,38,3,64,1,9,2012,2602.0
+189,Horticulture,Onions Dry,net,13,KES1018.00,09/01/2012,1,28,7,13,1,9,2012,1018.0
+190,Horticulture,Spring Onions,Bag,142,KES2097.00,09/01/2012,1,36,0,142,1,9,2012,2097.0
+191,Horticulture,Chillies,Bag,38,KES3783.00,09/01/2012,1,10,0,38,1,9,2012,3783.0
+192,Horticulture,Cucumber,Bag,50,KES1735.00,09/01/2012,1,13,0,50,1,9,2012,1735.0
+193,Horticulture,Capsicums,Bag,50,KES2674.00,09/01/2012,1,6,0,50,1,9,2012,2674.0
+194,Horticulture,Brinjals,Bag,44,KES1474.00,09/01/2012,1,4,0,44,1,9,2012,1474.0
+195,Horticulture,Cauliflower,crate,39,KES2087.00,09/01/2012,1,9,6,39,1,9,2012,2087.0
+196,Horticulture,Lettuce,Bag,51,KES4983.00,09/01/2012,1,23,0,51,1,9,2012,4983.0
+197,Horticulture,Passion Fruits,Bag,57,KES3536.00,09/01/2012,1,30,0,57,1,9,2012,3536.0
+198,Horticulture,Oranges,Bag,93,KES3163.00,09/01/2012,1,29,0,93,1,9,2012,3163.0
+199,Horticulture,Lemons,Bag,95,KES1374.00,09/01/2012,1,22,0,95,1,9,2012,1374.0
+200,Horticulture,Mangoes Local,Bag,126,KES2013.00,09/01/2012,1,25,0,126,1,9,2012,2013.0
+201,Horticulture,Mangoes Ngowe,Sm Basket,25,KES932.00,09/01/2012,1,26,5,25,1,9,2012,932.0
+202,Horticulture,Limes,net,13,KES626.00,09/01/2012,1,24,7,13,1,9,2012,626.0
+203,Horticulture,Pineapples,Dozen,13,KES935.00,09/01/2012,1,32,1,13,1,9,2012,935.0
+204,Horticulture,Pawpaw,Lg Box,54,KES1715.00,09/01/2012,1,31,3,54,1,9,2012,1715.0
+205,Horticulture,Avocado,Bag,90,KES1975.00,09/01/2012,1,0,0,90,1,9,2012,1975.0
+206,Horticulture,Kales,Bag,50,KES764.00,09/01/2012,1,21,0,50,1,9,2012,764.0
+207,Horticulture,Cabbages,Ext Bag,126,KES1643.00,10/01/2012,1,5,2,126,1,10,2012,1643.0
+208,Horticulture,Cooking Bananas,Med Bunch,22,KES626.00,10/01/2012,1,11,4,22,1,10,2012,626.0
+209,Horticulture,Ripe Bananas,Med Bunch,14,KES636.00,10/01/2012,1,34,4,14,1,10,2012,636.0
+210,Horticulture,Carrots,Ext Bag,138,KES2778.00,10/01/2012,1,7,2,138,1,10,2012,2778.0
+211,Horticulture,Tomatoes,Lg Box,64,KES2576.00,10/01/2012,1,38,3,64,1,10,2012,2576.0
+212,Horticulture,Onions Dry,net,13,KES819.00,10/01/2012,1,28,7,13,1,10,2012,819.0
+213,Horticulture,Spring Onions,Bag,142,KES1852.00,10/01/2012,1,36,0,142,1,10,2012,1852.0
+214,Horticulture,Chillies,Bag,38,KES2592.00,10/01/2012,1,10,0,38,1,10,2012,2592.0
+215,Horticulture,Cucumber,Bag,50,KES2020.00,10/01/2012,1,13,0,50,1,10,2012,2020.0
+216,Horticulture,Capsicums,Bag,50,KES2439.00,10/01/2012,1,6,0,50,1,10,2012,2439.0
+217,Horticulture,Brinjals,Bag,44,KES1386.00,10/01/2012,1,4,0,44,1,10,2012,1386.0
+218,Horticulture,Cauliflower,crate,39,KES1883.00,10/01/2012,1,9,6,39,1,10,2012,1883.0
+219,Horticulture,Lettuce,Bag,51,KES4944.00,10/01/2012,1,23,0,51,1,10,2012,4944.0
+220,Horticulture,Passion Fruits,Bag,57,KES3429.00,10/01/2012,1,30,0,57,1,10,2012,3429.0
+221,Horticulture,Oranges,Bag,93,KES3003.00,10/01/2012,1,29,0,93,1,10,2012,3003.0
+222,Horticulture,Lemons,Bag,95,KES1455.00,10/01/2012,1,22,0,95,1,10,2012,1455.0
+223,Horticulture,Mangoes Local,Bag,126,KES1862.00,10/01/2012,1,25,0,126,1,10,2012,1862.0
+224,Horticulture,Mangoes Ngowe,Sm Basket,25,KES1174.00,10/01/2012,1,26,5,25,1,10,2012,1174.0
+225,Horticulture,Limes,net,13,KES680.00,10/01/2012,1,24,7,13,1,10,2012,680.0
+226,Horticulture,Pineapples,Dozen,13,KES841.00,10/01/2012,1,32,1,13,1,10,2012,841.0
+227,Horticulture,Pawpaw,Lg Box,54,KES1431.00,10/01/2012,1,31,3,54,1,10,2012,1431.0
+228,Horticulture,Avocado,Bag,90,KES1860.00,10/01/2012,1,0,0,90,1,10,2012,1860.0
+229,Horticulture,Kales,Bag,50,KES749.00,10/01/2012,1,21,0,50,1,10,2012,749.0
+230,Horticulture,Cabbages,Ext Bag,126,KES1410.00,11/01/2012,1,5,2,126,1,11,2012,1410.0
+231,Horticulture,Cooking Bananas,Med Bunch,22,KES548.00,11/01/2012,1,11,4,22,1,11,2012,548.0
+232,Horticulture,Ripe Bananas,Med Bunch,14,KES593.00,11/01/2012,1,34,4,14,1,11,2012,593.0
+233,Horticulture,Carrots,Ext Bag,138,KES2515.00,11/01/2012,1,7,2,138,1,11,2012,2515.0
+234,Horticulture,Tomatoes,Lg Box,64,KES3392.00,11/01/2012,1,38,3,64,1,11,2012,3392.0
+235,Horticulture,Onions Dry,net,13,KES907.00,11/01/2012,1,28,7,13,1,11,2012,907.0
+236,Horticulture,Spring Onions,Bag,142,KES2015.00,11/01/2012,1,36,0,142,1,11,2012,2015.0
+237,Horticulture,Chillies,Bag,38,KES2387.00,11/01/2012,1,10,0,38,1,11,2012,2387.0
+238,Horticulture,Cucumber,Bag,50,KES1756.00,11/01/2012,1,13,0,50,1,11,2012,1756.0
+239,Horticulture,Capsicums,Bag,50,KES2088.00,11/01/2012,1,6,0,50,1,11,2012,2088.0
+240,Horticulture,Brinjals,Bag,44,KES1325.00,11/01/2012,1,4,0,44,1,11,2012,1325.0
+241,Horticulture,Cauliflower,crate,39,KES1364.00,11/01/2012,1,9,6,39,1,11,2012,1364.0
+242,Horticulture,Lettuce,Bag,51,KES2182.00,11/01/2012,1,23,0,51,1,11,2012,2182.0
+243,Horticulture,Passion Fruits,Bag,57,KES3505.00,11/01/2012,1,30,0,57,1,11,2012,3505.0
+244,Horticulture,Oranges,Bag,93,KES2678.00,11/01/2012,1,29,0,93,1,11,2012,2678.0
+245,Horticulture,Lemons,Bag,95,KES1546.00,11/01/2012,1,22,0,95,1,11,2012,1546.0
+246,Horticulture,Mangoes Local,Bag,126,KES1807.00,11/01/2012,1,25,0,126,1,11,2012,1807.0
+247,Horticulture,Mangoes Ngowe,Sm Basket,25,KES875.00,11/01/2012,1,26,5,25,1,11,2012,875.0
+248,Horticulture,Limes,net,13,KES847.00,11/01/2012,1,24,7,13,1,11,2012,847.0
+249,Horticulture,Pineapples,Dozen,13,KES778.00,11/01/2012,1,32,1,13,1,11,2012,778.0
+250,Horticulture,Pawpaw,Lg Box,54,KES1298.00,11/01/2012,1,31,3,54,1,11,2012,1298.0
+251,Horticulture,Avocado,Bag,90,KES1847.00,11/01/2012,1,0,0,90,1,11,2012,1847.0
+252,Horticulture,Kales,Bag,50,KES670.00,11/01/2012,1,21,0,50,1,11,2012,670.0
+253,Horticulture,Cabbages,Ext Bag,126,KES1504.00,12/01/2012,1,5,2,126,1,12,2012,1504.0
+254,Horticulture,Cooking Bananas,Med Bunch,22,KES547.00,12/01/2012,1,11,4,22,1,12,2012,547.0
+255,Horticulture,Ripe Bananas,Med Bunch,14,KES577.00,12/01/2012,1,34,4,14,1,12,2012,577.0
+256,Horticulture,Carrots,Ext Bag,138,KES2507.00,12/01/2012,1,7,2,138,1,12,2012,2507.0
+257,Horticulture,Tomatoes,Lg Box,64,KES3348.00,12/01/2012,1,38,3,64,1,12,2012,3348.0
+258,Horticulture,Onions Dry,net,13,KES900.00,12/01/2012,1,28,7,13,1,12,2012,900.0
+259,Horticulture,Spring Onions,Bag,142,KES2390.00,12/01/2012,1,36,0,142,1,12,2012,2390.0
+260,Horticulture,Chillies,Bag,38,KES3300.00,12/01/2012,1,10,0,38,1,12,2012,3300.0
+261,Horticulture,Cucumber,Bag,50,KES1861.00,12/01/2012,1,13,0,50,1,12,2012,1861.0
+262,Horticulture,Capsicums,Bag,50,KES2222.00,12/01/2012,1,6,0,50,1,12,2012,2222.0
+263,Horticulture,Brinjals,Bag,44,KES1427.00,12/01/2012,1,4,0,44,1,12,2012,1427.0
+264,Horticulture,Cauliflower,crate,39,KES1993.00,12/01/2012,1,9,6,39,1,12,2012,1993.0
+265,Horticulture,Lettuce,Bag,51,KES3932.00,12/01/2012,1,23,0,51,1,12,2012,3932.0
+266,Horticulture,Passion Fruits,Bag,57,KES3548.00,12/01/2012,1,30,0,57,1,12,2012,3548.0
+267,Horticulture,Oranges,Bag,93,KES2877.00,12/01/2012,1,29,0,93,1,12,2012,2877.0
+268,Horticulture,Lemons,Bag,95,KES1911.00,12/01/2012,1,22,0,95,1,12,2012,1911.0
+269,Horticulture,Mangoes Local,Bag,126,KES2124.00,12/01/2012,1,25,0,126,1,12,2012,2124.0
+270,Horticulture,Mangoes Ngowe,Sm Basket,25,KES912.00,12/01/2012,1,26,5,25,1,12,2012,912.0
+271,Horticulture,Limes,net,13,KES728.00,12/01/2012,1,24,7,13,1,12,2012,728.0
+272,Horticulture,Pineapples,Dozen,13,KES727.00,12/01/2012,1,32,1,13,1,12,2012,727.0
+273,Horticulture,Pawpaw,Lg Box,54,KES1611.00,12/01/2012,1,31,3,54,1,12,2012,1611.0
+274,Horticulture,Avocado,Bag,90,KES2255.00,12/01/2012,1,0,0,90,1,12,2012,2255.0
+275,Horticulture,Kales,Bag,50,KES690.00,12/01/2012,1,21,0,50,1,12,2012,690.0
+276,Horticulture,Cabbages,Ext Bag,126,KES1466.00,01/01/2013,1,5,2,126,1,1,2013,1466.0
+277,Horticulture,Kales,Bag,50,KES685.00,01/01/2013,1,21,0,50,1,1,2013,685.0
+278,Horticulture,Avocado,Bag,90,KES1981.00,01/01/2013,1,0,0,90,1,1,2013,1981.0
+279,Horticulture,Pawpaw,Lg Box,54,KES1479.00,01/01/2013,1,31,3,54,1,1,2013,1479.0
+280,Horticulture,Pineapples,Dozen,13,KES897.00,01/01/2013,1,32,1,13,1,1,2013,897.0
+281,Horticulture,Limes,net,13,KES582.00,01/01/2013,1,24,7,13,1,1,2013,582.0
+282,Horticulture,Mangoes Ngowe,Sm Basket,25,KES827.00,01/01/2013,1,26,5,25,1,1,2013,827.0
+283,Horticulture,Mangoes Local,Bag,126,KES1833.00,01/01/2013,1,25,0,126,1,1,2013,1833.0
+284,Horticulture,Lemons,Bag,95,KES1875.00,01/01/2013,1,22,0,95,1,1,2013,1875.0
+285,Horticulture,Oranges,Bag,93,KES2938.00,01/01/2013,1,29,0,93,1,1,2013,2938.0
+286,Horticulture,Passion Fruits,Bag,57,KES3180.00,01/01/2013,1,30,0,57,1,1,2013,3180.0
+287,Horticulture,Lettuce,Bag,51,KES4047.00,01/01/2013,1,23,0,51,1,1,2013,4047.0
+288,Horticulture,Cauliflower,crate,39,KES2098.00,01/01/2013,1,9,6,39,1,1,2013,2098.0
+289,Horticulture,Brinjals,Bag,44,KES1547.00,01/01/2013,1,4,0,44,1,1,2013,1547.0
+290,Horticulture,Capsicums,Bag,50,KES2099.00,01/01/2013,1,6,0,50,1,1,2013,2099.0
+291,Horticulture,Cucumber,Bag,50,KES1697.00,01/01/2013,1,13,0,50,1,1,2013,1697.0
+292,Horticulture,Chillies,Bag,38,KES2403.00,01/01/2013,1,10,0,38,1,1,2013,2403.0
+293,Horticulture,Spring Onions,Bag,142,KES1785.00,01/01/2013,1,36,0,142,1,1,2013,1785.0
+294,Horticulture,Onions Dry,net,13,KES797.00,01/01/2013,1,28,7,13,1,1,2013,797.0
+295,Horticulture,Tomatoes,Lg Box,64,KES2831.00,01/01/2013,1,38,3,64,1,1,2013,2831.0
+296,Horticulture,Carrots,Ext Bag,138,KES2538.00,01/01/2013,1,7,2,138,1,1,2013,2538.0
+297,Horticulture,Ripe Bananas,Med Bunch,14,KES609.00,01/01/2013,1,34,4,14,1,1,2013,609.0
+298,Horticulture,Cooking Bananas,Med Bunch,22,KES586.00,01/01/2013,1,11,4,22,1,1,2013,586.0
+299,Horticulture,Cooking Bananas,Med Bunch,22,KES629.00,02/01/2013,1,11,4,22,1,2,2013,629.0
+300,Horticulture,Kales,Bag,50,KES804.00,02/01/2013,1,21,0,50,1,2,2013,804.0
+301,Horticulture,Avocado,Bag,90,KES2394.00,02/01/2013,1,0,0,90,1,2,2013,2394.0
+302,Horticulture,Pawpaw,Lg Box,54,KES1472.00,02/01/2013,1,31,3,54,1,2,2013,1472.0
+303,Horticulture,Pineapples,Dozen,13,KES750.00,02/01/2013,1,32,1,13,1,2,2013,750.0
+304,Horticulture,Limes,net,13,KES710.00,02/01/2013,1,24,7,13,1,2,2013,710.0
+305,Horticulture,Mangoes Ngowe,Sm Basket,25,KES927.00,02/01/2013,1,26,5,25,1,2,2013,927.0
+306,Horticulture,Mangoes Local,Bag,126,KES1957.00,02/01/2013,1,25,0,126,1,2,2013,1957.0
+307,Horticulture,Lemons,Bag,95,KES2051.00,02/01/2013,1,22,0,95,1,2,2013,2051.0
+308,Horticulture,Oranges,Bag,93,KES3230.00,02/01/2013,1,29,0,93,1,2,2013,3230.0
+309,Horticulture,Passion Fruits,Bag,57,KES2955.00,02/01/2013,1,30,0,57,1,2,2013,2955.0
+310,Horticulture,Lettuce,Bag,51,KES3476.00,02/01/2013,1,23,0,51,1,2,2013,3476.0
+311,Horticulture,Cauliflower,crate,39,KES2483.00,02/01/2013,1,9,6,39,1,2,2013,2483.0
+312,Horticulture,Brinjals,Bag,44,KES1836.00,02/01/2013,1,4,0,44,1,2,2013,1836.0
+313,Horticulture,Capsicums,Bag,50,KES2517.00,02/01/2013,1,6,0,50,1,2,2013,2517.0
+314,Horticulture,Cucumber,Bag,50,KES2251.00,02/01/2013,1,13,0,50,1,2,2013,2251.0
+315,Horticulture,Chillies,Bag,38,KES2989.00,02/01/2013,1,10,0,38,1,2,2013,2989.0
+316,Horticulture,Spring Onions,Bag,142,KES2254.00,02/01/2013,1,36,0,142,1,2,2013,2254.0
+317,Horticulture,Onions Dry,net,13,KES792.00,02/01/2013,1,28,7,13,1,2,2013,792.0
+318,Horticulture,Tomatoes,Lg Box,64,KES2969.00,02/01/2013,1,38,3,64,1,2,2013,2969.0
+319,Horticulture,Carrots,Ext Bag,138,KES2669.00,02/01/2013,1,7,2,138,1,2,2013,2669.0
+320,Horticulture,Ripe Bananas,Med Bunch,14,KES708.00,02/01/2013,1,34,4,14,1,2,2013,708.0
+321,Horticulture,Cabbages,Ext Bag,126,KES1798.00,02/01/2013,1,5,2,126,1,2,2013,1798.0
+322,Horticulture,Cabbages,Ext Bag,126,KES1667.00,03/01/2013,1,5,2,126,1,3,2013,1667.0
+323,Horticulture,Cooking Bananas,Med Bunch,22,KES539.00,03/01/2013,1,11,4,22,1,3,2013,539.0
+324,Horticulture,Ripe Bananas,Med Bunch,14,KES607.00,03/01/2013,1,34,4,14,1,3,2013,607.0
+325,Horticulture,Carrots,Ext Bag,138,KES2969.00,03/01/2013,1,7,2,138,1,3,2013,2969.0
+326,Horticulture,Tomatoes,Lg Box,64,KES3669.00,03/01/2013,1,38,3,64,1,3,2013,3669.0
+327,Horticulture,Onions Dry,net,13,KES883.00,03/01/2013,1,28,7,13,1,3,2013,883.0
+328,Horticulture,Spring Onions,Bag,142,KES2159.00,03/01/2013,1,36,0,142,1,3,2013,2159.0
+329,Horticulture,Chillies,Bag,38,KES2377.00,03/01/2013,1,10,0,38,1,3,2013,2377.0
+330,Horticulture,Cucumber,Bag,50,KES2742.00,03/01/2013,1,13,0,50,1,3,2013,2742.0
+331,Horticulture,Capsicums,Bag,50,KES2750.00,03/01/2013,1,6,0,50,1,3,2013,2750.0
+332,Horticulture,Brinjals,Bag,44,KES1587.00,03/01/2013,1,4,0,44,1,3,2013,1587.0
+333,Horticulture,Cauliflower,crate,39,KES2452.00,03/01/2013,1,9,6,39,1,3,2013,2452.0
+334,Horticulture,Lettuce,Bag,51,KES3470.00,03/01/2013,1,23,0,51,1,3,2013,3470.0
+335,Horticulture,Passion Fruits,Bag,57,KES3988.00,03/01/2013,1,30,0,57,1,3,2013,3988.0
+336,Horticulture,Oranges,Bag,93,KES3053.00,03/01/2013,1,29,0,93,1,3,2013,3053.0
+337,Horticulture,Lemons,Bag,95,KES2039.00,03/01/2013,1,22,0,95,1,3,2013,2039.0
+338,Horticulture,Mangoes Local,Bag,126,KES2105.00,03/01/2013,1,25,0,126,1,3,2013,2105.0
+339,Horticulture,Mangoes Ngowe,Sm Basket,25,KES1149.00,03/01/2013,1,26,5,25,1,3,2013,1149.0
+340,Horticulture,Limes,net,13,KES679.00,03/01/2013,1,24,7,13,1,3,2013,679.0
+341,Horticulture,Pineapples,Dozen,13,KES728.00,03/01/2013,1,32,1,13,1,3,2013,728.0
+342,Horticulture,Pawpaw,Lg Box,54,KES1521.00,03/01/2013,1,31,3,54,1,3,2013,1521.0
+343,Horticulture,Avocado,Bag,90,KES2322.00,03/01/2013,1,0,0,90,1,3,2013,2322.0
+344,Horticulture,Kales,Bag,50,KES1039.00,03/01/2013,1,21,0,50,1,3,2013,1039.0
+345,Horticulture,Cabbages,Ext Bag,126,KES1638.00,04/01/2013,1,5,2,126,1,4,2013,1638.0
+346,Horticulture,Cooking Bananas,Med Bunch,22,KES545.00,04/01/2013,1,11,4,22,1,4,2013,545.0
+347,Horticulture,Ripe Bananas,Med Bunch,14,KES620.00,04/01/2013,1,34,4,14,1,4,2013,620.0
+348,Horticulture,Carrots,Ext Bag,138,KES3223.00,04/01/2013,1,7,2,138,1,4,2013,3223.0
+349,Horticulture,Tomatoes,Lg Box,64,KES5182.00,04/01/2013,1,38,3,64,1,4,2013,5182.0
+350,Horticulture,Onions Dry,net,13,KES850.00,04/01/2013,1,28,7,13,1,4,2013,850.0
+351,Horticulture,Spring Onions,Bag,142,KES2194.00,04/01/2013,1,36,0,142,1,4,2013,2194.0
+352,Horticulture,Chillies,Bag,38,KES3064.00,04/01/2013,1,10,0,38,1,4,2013,3064.0
+353,Horticulture,Cucumber,Bag,50,KES2405.00,04/01/2013,1,13,0,50,1,4,2013,2405.0
+354,Horticulture,Capsicums,Bag,50,KES2930.00,04/01/2013,1,6,0,50,1,4,2013,2930.0
+355,Horticulture,Brinjals,Bag,44,KES1664.00,04/01/2013,1,4,0,44,1,4,2013,1664.0
+356,Horticulture,Cauliflower,crate,39,KES3781.00,04/01/2013,1,9,6,39,1,4,2013,3781.0
+357,Horticulture,Lettuce,Bag,51,KES3202.00,04/01/2013,1,23,0,51,1,4,2013,3202.0
+358,Horticulture,Passion Fruits,Bag,57,KES3725.00,04/01/2013,1,30,0,57,1,4,2013,3725.0
+359,Horticulture,Oranges,Bag,93,KES2948.00,04/01/2013,1,29,0,93,1,4,2013,2948.0
+360,Horticulture,Lemons,Bag,95,KES1960.00,04/01/2013,1,22,0,95,1,4,2013,1960.0
+361,Horticulture,Mangoes Local,Bag,126,KES2444.00,04/01/2013,1,25,0,126,1,4,2013,2444.0
+362,Horticulture,Mangoes Ngowe,Sm Basket,25,KES770.00,04/01/2013,1,26,5,25,1,4,2013,770.0
+363,Horticulture,Limes,net,13,KES635.00,04/01/2013,1,24,7,13,1,4,2013,635.0
+364,Horticulture,Pineapples,Dozen,13,KES780.00,04/01/2013,1,32,1,13,1,4,2013,780.0
+365,Horticulture,Pawpaw,Lg Box,54,KES1473.00,04/01/2013,1,31,3,54,1,4,2013,1473.0
+366,Horticulture,Avocado,Bag,90,KES2287.00,04/01/2013,1,0,0,90,1,4,2013,2287.0
+367,Horticulture,Kales,Bag,50,KES848.00,04/01/2013,1,21,0,50,1,4,2013,848.0
+368,Horticulture,Lettuce,Bag,51,KES4090.00,05/01/2013,1,23,0,51,1,5,2013,4090.0
+369,Horticulture,Kales,Bag,50,KES1277.00,05/01/2013,1,21,0,50,1,5,2013,1277.0
+370,Horticulture,Avocado,Bag,90,KES2705.00,05/01/2013,1,0,0,90,1,5,2013,2705.0
+371,Horticulture,Pawpaw,Lg Box,54,KES1777.00,05/01/2013,1,31,3,54,1,5,2013,1777.0
+372,Horticulture,Pineapples,Dozen,13,KES754.00,05/01/2013,1,32,1,13,1,5,2013,754.0
+373,Horticulture,Limes,net,13,KES683.00,05/01/2013,1,24,7,13,1,5,2013,683.0
+374,Horticulture,Mangoes Ngowe,Sm Basket,25,KES1079.00,05/01/2013,1,26,5,25,1,5,2013,1079.0
+375,Horticulture,Mangoes Local,Bag,126,KES2420.00,05/01/2013,1,25,0,126,1,5,2013,2420.0
+376,Horticulture,Lemons,Bag,95,KES2112.00,05/01/2013,1,22,0,95,1,5,2013,2112.0
+377,Horticulture,Oranges,Bag,93,KES2893.00,05/01/2013,1,29,0,93,1,5,2013,2893.0
+378,Horticulture,Passion Fruits,Bag,57,KES3923.00,05/01/2013,1,30,0,57,1,5,2013,3923.0
+379,Horticulture,Cauliflower,crate,39,KES3553.00,05/01/2013,1,9,6,39,1,5,2013,3553.0
+380,Horticulture,Brinjals,Bag,44,KES1700.00,05/01/2013,1,4,0,44,1,5,2013,1700.0
+381,Horticulture,Capsicums,Bag,50,KES2663.00,05/01/2013,1,6,0,50,1,5,2013,2663.0
+382,Horticulture,Cucumber,Bag,50,KES2268.00,05/01/2013,1,13,0,50,1,5,2013,2268.0
+383,Horticulture,Chillies,Bag,38,KES3105.00,05/01/2013,1,10,0,38,1,5,2013,3105.0
+384,Horticulture,Spring Onions,Bag,142,KES2571.00,05/01/2013,1,36,0,142,1,5,2013,2571.0
+385,Horticulture,Onions Dry,net,13,KES967.00,05/01/2013,1,28,7,13,1,5,2013,967.0
+386,Horticulture,Tomatoes,Lg Box,64,KES5596.00,05/01/2013,1,38,3,64,1,5,2013,5596.0
+387,Horticulture,Carrots,Ext Bag,138,KES3318.00,05/01/2013,1,7,2,138,1,5,2013,3318.0
+388,Horticulture,Ripe Bananas,Med Bunch,14,KES625.00,05/01/2013,1,34,4,14,1,5,2013,625.0
+389,Horticulture,Cooking Bananas,Med Bunch,22,KES618.00,05/01/2013,1,11,4,22,1,5,2013,618.0
+390,Horticulture,Cabbages,Ext Bag,126,KES2058.00,05/01/2013,1,5,2,126,1,5,2013,2058.0
+391,Horticulture,Cooking Bananas,Med Bunch,22,KES541.00,06/01/2013,1,11,4,22,1,6,2013,541.0
+392,Horticulture,Ripe Bananas,Med Bunch,14,KES583.00,06/01/2013,1,34,4,14,1,6,2013,583.0
+393,Horticulture,Carrots,Ext Bag,138,KES3647.00,06/01/2013,1,7,2,138,1,6,2013,3647.0
+394,Horticulture,Tomatoes,Lg Box,64,KES4037.00,06/01/2013,1,38,3,64,1,6,2013,4037.0
+395,Horticulture,Onions Dry,net,13,KES1147.00,06/01/2013,1,28,7,13,1,6,2013,1147.0
+396,Horticulture,Spring Onions,Bag,142,KES2480.00,06/01/2013,1,36,0,142,1,6,2013,2480.0
+397,Horticulture,Chillies,Bag,38,KES2973.00,06/01/2013,1,10,0,38,1,6,2013,2973.0
+398,Horticulture,Cucumber,Bag,50,KES1946.00,06/01/2013,1,13,0,50,1,6,2013,1946.0
+399,Horticulture,Capsicums,Bag,50,KES3031.00,06/01/2013,1,6,0,50,1,6,2013,3031.0
+400,Horticulture,Brinjals,Bag,44,KES1720.00,06/01/2013,1,4,0,44,1,6,2013,1720.0
+401,Horticulture,Cauliflower,crate,39,KES3490.00,06/01/2013,1,9,6,39,1,6,2013,3490.0
+402,Horticulture,Cabbages,Ext Bag,126,KES2465.00,06/01/2013,1,5,2,126,1,6,2013,2465.0
+403,Horticulture,Lettuce,Bag,51,KES3748.00,06/01/2013,1,23,0,51,1,6,2013,3748.0
+404,Horticulture,Passion Fruits,Bag,57,KES4041.00,06/01/2013,1,30,0,57,1,6,2013,4041.0
+405,Horticulture,Oranges,Bag,93,KES2674.00,06/01/2013,1,29,0,93,1,6,2013,2674.0
+406,Horticulture,Lemons,Bag,95,KES2085.00,06/01/2013,1,22,0,95,1,6,2013,2085.0
+407,Horticulture,Mangoes Local,Bag,126,KES2078.00,06/01/2013,1,25,0,126,1,6,2013,2078.0
+408,Horticulture,Mangoes Ngowe,Sm Basket,25,KES915.00,06/01/2013,1,26,5,25,1,6,2013,915.0
+409,Horticulture,Limes,net,13,KES443.00,06/01/2013,1,24,7,13,1,6,2013,443.0
+410,Horticulture,Pineapples,Dozen,13,KES700.00,06/01/2013,1,32,1,13,1,6,2013,700.0
+411,Horticulture,Pawpaw,Lg Box,54,KES1511.00,06/01/2013,1,31,3,54,1,6,2013,1511.0
+412,Horticulture,Avocado,Bag,90,KES2097.00,06/01/2013,1,0,0,90,1,6,2013,2097.0
+413,Horticulture,Kales,Bag,50,KES1626.00,06/01/2013,1,21,0,50,1,6,2013,1626.0
+414,Horticulture,Cabbages,Ext Bag,126,KES2326.00,07/01/2013,1,5,2,126,1,7,2013,2326.0
+415,Horticulture,Cooking Bananas,Med Bunch,22,KES518.00,07/01/2013,1,11,4,22,1,7,2013,518.0
+416,Horticulture,Ripe Bananas,Med Bunch,14,KES578.00,07/01/2013,1,34,4,14,1,7,2013,578.0
+417,Horticulture,Carrots,Ext Bag,138,KES3553.00,07/01/2013,1,7,2,138,1,7,2013,3553.0
+418,Horticulture,Tomatoes,Lg Box,64,KES2786.00,07/01/2013,1,38,3,64,1,7,2013,2786.0
+419,Horticulture,Onions Dry,net,13,KES957.00,07/01/2013,1,28,7,13,1,7,2013,957.0
+420,Horticulture,Spring Onions,Bag,142,KES2318.00,07/01/2013,1,36,0,142,1,7,2013,2318.0
+421,Horticulture,Chillies,Bag,38,KES3251.00,07/01/2013,1,10,0,38,1,7,2013,3251.0
+422,Horticulture,Cucumber,Bag,50,KES2505.00,07/01/2013,1,13,0,50,1,7,2013,2505.0
+423,Horticulture,Capsicums,Bag,50,KES2767.00,07/01/2013,1,6,0,50,1,7,2013,2767.0
+424,Horticulture,Brinjals,Bag,44,KES1851.00,07/01/2013,1,4,0,44,1,7,2013,1851.0
+425,Horticulture,Cauliflower,crate,39,KES2333.00,07/01/2013,1,9,6,39,1,7,2013,2333.0
+426,Horticulture,Lettuce,Bag,51,KES3246.00,07/01/2013,1,23,0,51,1,7,2013,3246.0
+427,Horticulture,Passion Fruits,Bag,57,KES3740.00,07/01/2013,1,30,0,57,1,7,2013,3740.0
+428,Horticulture,Oranges,Bag,93,KES2718.00,07/01/2013,1,29,0,93,1,7,2013,2718.0
+429,Horticulture,Lemons,Bag,95,KES2023.00,07/01/2013,1,22,0,95,1,7,2013,2023.0
+430,Horticulture,Mangoes Local,Bag,126,KES2208.00,07/01/2013,1,25,0,126,1,7,2013,2208.0
+431,Horticulture,Mangoes Ngowe,Sm Basket,25,KES1064.00,07/01/2013,1,26,5,25,1,7,2013,1064.0
+432,Horticulture,Limes,net,13,KES507.00,07/01/2013,1,24,7,13,1,7,2013,507.0
+433,Horticulture,Pineapples,Dozen,13,KES688.00,07/01/2013,1,32,1,13,1,7,2013,688.0
+434,Horticulture,Pawpaw,Lg Box,54,KES1609.00,07/01/2013,1,31,3,54,1,7,2013,1609.0
+435,Horticulture,Avocado,Bag,90,KES2202.00,07/01/2013,1,0,0,90,1,7,2013,2202.0
+436,Horticulture,Kales,Bag,50,KES1556.00,07/01/2013,1,21,0,50,1,7,2013,1556.0
+437,Horticulture,Cauliflower,crate,39,KES2099.00,08/01/2013,1,9,6,39,1,8,2013,2099.0
+438,Horticulture,Cabbages,Ext Bag,126,KES2433.00,08/01/2013,1,5,2,126,1,8,2013,2433.0
+439,Horticulture,Cooking Bananas,Med Bunch,22,KES500.00,08/01/2013,1,11,4,22,1,8,2013,500.0
+440,Horticulture,Ripe Bananas,Med Bunch,14,KES553.00,08/01/2013,1,34,4,14,1,8,2013,553.0
+441,Horticulture,Carrots,Ext Bag,138,KES3469.00,08/01/2013,1,7,2,138,1,8,2013,3469.0
+442,Horticulture,Tomatoes,Lg Box,64,KES2653.00,08/01/2013,1,38,3,64,1,8,2013,2653.0
+443,Horticulture,Onions Dry,net,13,KES894.00,08/01/2013,1,28,7,13,1,8,2013,894.0
+444,Horticulture,Spring Onions,Bag,142,KES1820.00,08/01/2013,1,36,0,142,1,8,2013,1820.0
+445,Horticulture,Chillies,Bag,38,KES2321.00,08/01/2013,1,10,0,38,1,8,2013,2321.0
+446,Horticulture,Cucumber,Bag,50,KES2323.00,08/01/2013,1,13,0,50,1,8,2013,2323.0
+447,Horticulture,Capsicums,Bag,50,KES3077.00,08/01/2013,1,6,0,50,1,8,2013,3077.0
+448,Horticulture,Brinjals,Bag,44,KES1705.00,08/01/2013,1,4,0,44,1,8,2013,1705.0
+449,Horticulture,Lettuce,Bag,51,KES3553.00,08/01/2013,1,23,0,51,1,8,2013,3553.0
+450,Horticulture,Passion Fruits,Bag,57,KES4518.00,08/01/2013,1,30,0,57,1,8,2013,4518.0
+451,Horticulture,Oranges,Bag,93,KES2878.00,08/01/2013,1,29,0,93,1,8,2013,2878.0
+452,Horticulture,Lemons,Bag,95,KES1889.00,08/01/2013,1,22,0,95,1,8,2013,1889.0
+453,Horticulture,Mangoes Local,Bag,126,KES2255.00,08/01/2013,1,25,0,126,1,8,2013,2255.0
+454,Horticulture,Mangoes Ngowe,Sm Basket,25,KES1257.00,08/01/2013,1,26,5,25,1,8,2013,1257.0
+455,Horticulture,Limes,net,13,KES645.00,08/01/2013,1,24,7,13,1,8,2013,645.0
+456,Horticulture,Pineapples,Dozen,13,KES710.00,08/01/2013,1,32,1,13,1,8,2013,710.0
+457,Horticulture,Pawpaw,Lg Box,54,KES1411.00,08/01/2013,1,31,3,54,1,8,2013,1411.0
+458,Horticulture,Avocado,Bag,90,KES2031.00,08/01/2013,1,0,0,90,1,8,2013,2031.0
+459,Horticulture,Kales,Bag,50,KES1257.00,08/01/2013,1,21,0,50,1,8,2013,1257.0
+460,Horticulture,Cabbages,Ext Bag,126,KES2350.00,09/01/2013,1,5,2,126,1,9,2013,2350.0
+461,Horticulture,Cooking Bananas,Med Bunch,22,KES510.00,09/01/2013,1,11,4,22,1,9,2013,510.0
+462,Horticulture,Ripe Bananas,Med Bunch,14,KES568.00,09/01/2013,1,34,4,14,1,9,2013,568.0
+463,Horticulture,Carrots,Ext Bag,138,KES4340.00,09/01/2013,1,7,2,138,1,9,2013,4340.0
+464,Horticulture,Tomatoes,Lg Box,64,KES2446.00,09/01/2013,1,38,3,64,1,9,2013,2446.0
+465,Horticulture,Onions Dry,net,13,KES862.00,09/01/2013,1,28,7,13,1,9,2013,862.0
+466,Horticulture,Spring Onions,Bag,142,KES1950.00,09/01/2013,1,36,0,142,1,9,2013,1950.0
+467,Horticulture,Chillies,Bag,38,KES2353.00,09/01/2013,1,10,0,38,1,9,2013,2353.0
+468,Horticulture,Cucumber,Bag,50,KES1784.00,09/01/2013,1,13,0,50,1,9,2013,1784.0
+469,Horticulture,Capsicums,Bag,50,KES2846.00,09/01/2013,1,6,0,50,1,9,2013,2846.0
+470,Horticulture,Brinjals,Bag,44,KES1763.00,09/01/2013,1,4,0,44,1,9,2013,1763.0
+471,Horticulture,Kales,Bag,50,KES1086.00,09/01/2013,1,21,0,50,1,9,2013,1086.0
+472,Horticulture,Cauliflower,crate,39,KES1901.00,09/01/2013,1,9,6,39,1,9,2013,1901.0
+473,Horticulture,Lettuce,Bag,51,KES3205.00,09/01/2013,1,23,0,51,1,9,2013,3205.0
+474,Horticulture,Passion Fruits,Bag,57,KES3728.00,09/01/2013,1,30,0,57,1,9,2013,3728.0
+475,Horticulture,Oranges,Bag,93,KES2956.00,09/01/2013,1,29,0,93,1,9,2013,2956.0
+476,Horticulture,Lemons,Bag,95,KES2077.00,09/01/2013,1,22,0,95,1,9,2013,2077.0
+477,Horticulture,Mangoes Local,Bag,126,KES2688.00,09/01/2013,1,25,0,126,1,9,2013,2688.0
+478,Horticulture,Mangoes Ngowe,Sm Basket,25,KES1262.00,09/01/2013,1,26,5,25,1,9,2013,1262.0
+479,Horticulture,Limes,net,13,KES771.00,09/01/2013,1,24,7,13,1,9,2013,771.0
+480,Horticulture,Pineapples,Dozen,13,KES711.00,09/01/2013,1,32,1,13,1,9,2013,711.0
+481,Horticulture,Pawpaw,Lg Box,54,KES1562.00,09/01/2013,1,31,3,54,1,9,2013,1562.0
+482,Horticulture,Avocado,Bag,90,KES2070.00,09/01/2013,1,0,0,90,1,9,2013,2070.0
+483,Horticulture,Oranges,Bag,93,KES3104.00,10/01/2013,1,29,0,93,1,10,2013,3104.0
+484,Horticulture,Cabbages,Ext Bag,126,KES1992.00,10/01/2013,1,5,2,126,1,10,2013,1992.0
+485,Horticulture,Cooking Bananas,Med Bunch,22,KES513.00,10/01/2013,1,11,4,22,1,10,2013,513.0
+486,Horticulture,Ripe Bananas,Med Bunch,14,KES565.00,10/01/2013,1,34,4,14,1,10,2013,565.0
+487,Horticulture,Carrots,Ext Bag,138,KES4390.00,10/01/2013,1,7,2,138,1,10,2013,4390.0
+488,Horticulture,Tomatoes,Lg Box,64,KES2862.00,10/01/2013,1,38,3,64,1,10,2013,2862.0
+489,Horticulture,Onions Dry,net,13,KES845.00,10/01/2013,1,28,7,13,1,10,2013,845.0
+490,Horticulture,Spring Onions,Bag,142,KES1978.00,10/01/2013,1,36,0,142,1,10,2013,1978.0
+491,Horticulture,Chillies,Bag,38,KES2325.00,10/01/2013,1,10,0,38,1,10,2013,2325.0
+492,Horticulture,Cucumber,Bag,50,KES2259.00,10/01/2013,1,13,0,50,1,10,2013,2259.0
+493,Horticulture,Capsicums,Bag,50,KES2515.00,10/01/2013,1,6,0,50,1,10,2013,2515.0
+494,Horticulture,Brinjals,Bag,44,KES1657.00,10/01/2013,1,4,0,44,1,10,2013,1657.0
+495,Horticulture,Cauliflower,crate,39,KES1964.00,10/01/2013,1,9,6,39,1,10,2013,1964.0
+496,Horticulture,Lettuce,Bag,51,KES3044.00,10/01/2013,1,23,0,51,1,10,2013,3044.0
+497,Horticulture,Passion Fruits,Bag,57,KES3572.00,10/01/2013,1,30,0,57,1,10,2013,3572.0
+498,Horticulture,Lemons,Bag,95,KES2292.00,10/01/2013,1,22,0,95,1,10,2013,2292.0
+499,Horticulture,Mangoes Local,Bag,126,KES2259.00,10/01/2013,1,25,0,126,1,10,2013,2259.0
+500,Horticulture,Mangoes Ngowe,Sm Basket,25,KES1200.00,10/01/2013,1,26,5,25,1,10,2013,1200.0
+501,Horticulture,Limes,net,13,KES990.00,10/01/2013,1,24,7,13,1,10,2013,990.0
+502,Horticulture,Pineapples,Dozen,13,KES797.00,10/01/2013,1,32,1,13,1,10,2013,797.0
+503,Horticulture,Pawpaw,Lg Box,54,KES1466.00,10/01/2013,1,31,3,54,1,10,2013,1466.0
+504,Horticulture,Avocado,Bag,90,KES2307.00,10/01/2013,1,0,0,90,1,10,2013,2307.0
+505,Horticulture,Kales,Bag,50,KES849.00,10/01/2013,1,21,0,50,1,10,2013,849.0
+506,Horticulture,Kales,Bag,50,KES1013.00,11/01/2013,1,21,0,50,1,11,2013,1013.0
+507,Horticulture,Cabbages,Ext Bag,126,KES1965.00,11/01/2013,1,5,2,126,1,11,2013,1965.0
+508,Horticulture,Cooking Bananas,Med Bunch,22,KES519.00,11/01/2013,1,11,4,22,1,11,2013,519.0
+509,Horticulture,Ripe Bananas,Med Bunch,14,KES588.00,11/01/2013,1,34,4,14,1,11,2013,588.0
+510,Horticulture,Carrots,Ext Bag,138,KES4043.00,11/01/2013,1,7,2,138,1,11,2013,4043.0
+511,Horticulture,Tomatoes,Lg Box,64,KES3141.00,11/01/2013,1,38,3,64,1,11,2013,3141.0
+512,Horticulture,Onions Dry,net,13,KES844.00,11/01/2013,1,28,7,13,1,11,2013,844.0
+513,Horticulture,Spring Onions,Bag,142,KES2084.00,11/01/2013,1,36,0,142,1,11,2013,2084.0
+514,Horticulture,Chillies,Bag,38,KES2349.00,11/01/2013,1,10,0,38,1,11,2013,2349.0
+515,Horticulture,Cucumber,Bag,50,KES2094.00,11/01/2013,1,13,0,50,1,11,2013,2094.0
+516,Horticulture,Capsicums,Bag,50,KES2219.00,11/01/2013,1,6,0,50,1,11,2013,2219.0
+517,Horticulture,Brinjals,Bag,44,KES1636.00,11/01/2013,1,4,0,44,1,11,2013,1636.0
+518,Horticulture,Cauliflower,crate,39,KES2067.00,11/01/2013,1,9,6,39,1,11,2013,2067.0
+519,Horticulture,Lettuce,Bag,51,KES4072.00,11/01/2013,1,23,0,51,1,11,2013,4072.0
+520,Horticulture,Passion Fruits,Bag,57,KES4129.00,11/01/2013,1,30,0,57,1,11,2013,4129.0
+521,Horticulture,Oranges,Bag,93,KES2967.00,11/01/2013,1,29,0,93,1,11,2013,2967.0
+522,Horticulture,Lemons,Bag,95,KES2560.00,11/01/2013,1,22,0,95,1,11,2013,2560.0
+523,Horticulture,Mangoes Local,Bag,126,KES2034.00,11/01/2013,1,25,0,126,1,11,2013,2034.0
+524,Horticulture,Avocado,Bag,90,KES2672.00,11/01/2013,1,0,0,90,1,11,2013,2672.0
+525,Horticulture,Mangoes Ngowe,Sm Basket,25,KES1082.00,11/01/2013,1,26,5,25,1,11,2013,1082.0
+526,Horticulture,Limes,net,13,KES902.00,11/01/2013,1,24,7,13,1,11,2013,902.0
+527,Horticulture,Pineapples,Dozen,13,KES826.00,11/01/2013,1,32,1,13,1,11,2013,826.0
+528,Horticulture,Pawpaw,Lg Box,54,KES1507.00,11/01/2013,1,31,3,54,1,11,2013,1507.0
+529,Horticulture,Kales,Bag,50,KES953.00,12/01/2013,1,21,0,50,1,12,2013,953.0
+530,Horticulture,Carrots,Ext Bag,138,KES3498.00,12/01/2013,1,7,2,138,1,12,2013,3498.0
+531,Horticulture,Tomatoes,Lg Box,64,KES2897.00,12/01/2013,1,38,3,64,1,12,2013,2897.0
+532,Horticulture,Onions Dry,net,13,KES862.00,12/01/2013,1,28,7,13,1,12,2013,862.0
+533,Horticulture,Spring Onions,Bag,142,KES1755.00,12/01/2013,1,36,0,142,1,12,2013,1755.0
+534,Horticulture,Chillies,Bag,38,KES2357.00,12/01/2013,1,10,0,38,1,12,2013,2357.0
+535,Horticulture,Cucumber,Bag,50,KES1843.00,12/01/2013,1,13,0,50,1,12,2013,1843.0
+536,Horticulture,Capsicums,Bag,50,KES2195.00,12/01/2013,1,6,0,50,1,12,2013,2195.0
+537,Horticulture,Brinjals,Bag,44,KES1471.00,12/01/2013,1,4,0,44,1,12,2013,1471.0
+538,Horticulture,Cauliflower,crate,39,KES2373.00,12/01/2013,1,9,6,39,1,12,2013,2373.0
+539,Horticulture,Lettuce,Bag,51,KES3571.00,12/01/2013,1,23,0,51,1,12,2013,3571.0
+540,Horticulture,Passion Fruits,Bag,57,KES3500.00,12/01/2013,1,30,0,57,1,12,2013,3500.0
+541,Horticulture,Oranges,Bag,93,KES2556.00,12/01/2013,1,29,0,93,1,12,2013,2556.0
+542,Horticulture,Ripe Bananas,Med Bunch,14,KES638.00,12/01/2013,1,34,4,14,1,12,2013,638.0
+543,Horticulture,Lemons,Bag,95,KES2569.00,12/01/2013,1,22,0,95,1,12,2013,2569.0
+544,Horticulture,Mangoes Local,Bag,126,KES1872.00,12/01/2013,1,25,0,126,1,12,2013,1872.0
+545,Horticulture,Mangoes Ngowe,Sm Basket,25,KES1085.00,12/01/2013,1,26,5,25,1,12,2013,1085.0
+546,Horticulture,Limes,net,13,KES776.00,12/01/2013,1,24,7,13,1,12,2013,776.0
+547,Horticulture,Pineapples,Dozen,13,KES824.00,12/01/2013,1,32,1,13,1,12,2013,824.0
+548,Horticulture,Pawpaw,Lg Box,54,KES1498.00,12/01/2013,1,31,3,54,1,12,2013,1498.0
+549,Horticulture,Cooking Bananas,Med Bunch,22,KES521.00,12/01/2013,1,11,4,22,1,12,2013,521.0
+550,Horticulture,Avocado,Bag,90,KES2303.00,12/01/2013,1,0,0,90,1,12,2013,2303.0
+551,Horticulture,Cabbages,Ext Bag,126,KES1728.00,12/01/2013,1,5,2,126,1,12,2013,1728.0
+552,Horticulture,Cooking Bananas,Med Bunch,22,KES473.00,01/01/2015,1,11,4,22,1,1,2015,473.0
+553,Horticulture,Cabbages,Ext Bag,126,KES2245.00,01/01/2015,1,5,2,126,1,1,2015,2245.0
+554,Horticulture,Kales,Bag,50,KES1227.00,01/01/2015,1,21,0,50,1,1,2015,1227.0
+555,Horticulture,Avocado,Bag,90,KES2379.00,01/01/2015,1,0,0,90,1,1,2015,2379.0
+556,Horticulture,Pawpaw,Lg Box,54,KES1563.00,01/01/2015,1,31,3,54,1,1,2015,1563.0
+557,Horticulture,Pineapples,Dozen,13,KES796.00,01/01/2015,1,32,1,13,1,1,2015,796.0
+558,Horticulture,Limes,net,13,KES648.00,01/01/2015,1,24,7,13,1,1,2015,648.0
+559,Horticulture,Mangoes Ngowe,Sm Basket,25,KES1170.00,01/01/2015,1,26,5,25,1,1,2015,1170.0
+560,Horticulture,Mangoes Local,Bag,126,KES1963.00,01/01/2015,1,25,0,126,1,1,2015,1963.0
+561,Horticulture,Lemons,Bag,95,KES2540.00,01/01/2015,1,22,0,95,1,1,2015,2540.0
+562,Horticulture,Oranges,Bag,93,KES3795.00,01/01/2015,1,29,0,93,1,1,2015,3795.0
+563,Horticulture,Passion Fruits,Bag,57,KES4037.00,01/01/2015,1,30,0,57,1,1,2015,4037.0
+564,Horticulture,Lettuce,Bag,51,KES2192.00,01/01/2015,1,23,0,51,1,1,2015,2192.0
+565,Horticulture,Cauliflower,crate,39,KES2091.00,01/01/2015,1,9,6,39,1,1,2015,2091.0
+566,Horticulture,Brinjals,Bag,44,KES1786.00,01/01/2015,1,4,0,44,1,1,2015,1786.0
+567,Horticulture,Capsicums,Bag,50,KES2978.00,01/01/2015,1,6,0,50,1,1,2015,2978.0
+568,Horticulture,Cucumber,Bag,50,KES1810.00,01/01/2015,1,13,0,50,1,1,2015,1810.0
+569,Horticulture,Chillies,Bag,38,KES2624.00,01/01/2015,1,10,0,38,1,1,2015,2624.0
+570,Horticulture,Spring Onions,Bag,142,KES1836.00,01/01/2015,1,36,0,142,1,1,2015,1836.0
+571,Horticulture,Onions Dry,net,13,KES813.00,01/01/2015,1,28,7,13,1,1,2015,813.0
+572,Horticulture,Tomatoes,Lg Box,64,KES4097.00,01/01/2015,1,38,3,64,1,1,2015,4097.0
+573,Horticulture,Carrots,Ext Bag,138,KES2840.00,01/01/2015,1,7,2,138,1,1,2015,2840.0
+574,Horticulture,Ripe Bananas,Med Bunch,14,KES568.00,01/01/2015,1,34,4,14,1,1,2015,568.0
+575,Horticulture,Mangoes Local,Bag,126,KES2201.00,02/01/2015,1,25,0,126,1,2,2015,2201.0
+576,Horticulture,Chillies,Bag,38,KES2816.00,02/01/2015,1,10,0,38,1,2,2015,2816.0
+577,Horticulture,Capsicums,Bag,50,KES2922.00,02/01/2015,1,6,0,50,1,2,2015,2922.0
+578,Horticulture,Cabbages,Ext Bag,126,KES2335.00,02/01/2015,1,5,2,126,1,2,2015,2335.0
+579,Horticulture,Limes,net,13,KES688.00,02/01/2015,1,24,7,13,1,2,2015,688.0
+580,Horticulture,Mangoes Ngowe,Sm Basket,25,KES1051.00,02/01/2015,1,26,5,25,1,2,2015,1051.0
+581,Horticulture,Oranges,Bag,93,KES3384.00,02/01/2015,1,29,0,93,1,2,2015,3384.0
+582,Horticulture,Brinjals,Bag,44,KES2126.00,02/01/2015,1,4,0,44,1,2,2015,2126.0
+583,Horticulture,Kales,Bag,50,KES2076.00,02/01/2015,1,21,0,50,1,2,2015,2076.0
+584,Horticulture,Tomatoes,Lg Box,64,KES4455.00,02/01/2015,1,38,3,64,1,2,2015,4455.0
+585,Horticulture,Carrots,Ext Bag,138,KES3134.00,02/01/2015,1,7,2,138,1,2,2015,3134.0
+586,Horticulture,Spring Onions,Bag,142,KES1585.00,02/01/2015,1,36,0,142,1,2,2015,1585.0
+587,Horticulture,Cucumber,Bag,50,KES2568.00,02/01/2015,1,13,0,50,1,2,2015,2568.0
+588,Horticulture,Ripe Bananas,Med Bunch,14,KES615.00,02/01/2015,1,34,4,14,1,2,2015,615.0
+589,Horticulture,Cooking Bananas,Med Bunch,22,KES527.00,02/01/2015,1,11,4,22,1,2,2015,527.0
+590,Horticulture,Pawpaw,Lg Box,54,KES2005.00,02/01/2015,1,31,3,54,1,2,2015,2005.0
+591,Horticulture,Lemons,Bag,95,KES2452.00,02/01/2015,1,22,0,95,1,2,2015,2452.0
+592,Horticulture,Lettuce,Bag,51,KES2555.00,02/01/2015,1,23,0,51,1,2,2015,2555.0
+593,Horticulture,Onions Dry,net,13,KES840.00,02/01/2015,1,28,7,13,1,2,2015,840.0
+594,Horticulture,Passion Fruits,Bag,57,KES4008.00,02/01/2015,1,30,0,57,1,2,2015,4008.0
+595,Horticulture,Pineapples,Dozen,13,KES751.00,02/01/2015,1,32,1,13,1,2,2015,751.0
+596,Horticulture,Avocado,Bag,90,KES2204.00,02/01/2015,1,0,0,90,1,2,2015,2204.0
+597,Horticulture,Cauliflower,crate,39,KES2566.00,02/01/2015,1,9,6,39,1,2,2015,2566.0
+598,Horticulture,Ripe Bananas,Med Bunch,14,KES571.00,03/01/2015,1,34,4,14,1,3,2015,571.0
+599,Horticulture,Cabbages,Ext Bag,126,KES2684.00,03/01/2015,1,5,2,126,1,3,2015,2684.0
+600,Horticulture,Pawpaw,Lg Box,54,KES1922.00,03/01/2015,1,31,3,54,1,3,2015,1922.0
+601,Horticulture,Avocado,Bag,90,KES2155.00,03/01/2015,1,0,0,90,1,3,2015,2155.0
+602,Horticulture,Carrots,Ext Bag,138,KES3634.00,03/01/2015,1,7,2,138,1,3,2015,3634.0
+603,Horticulture,Chillies,Bag,38,KES3019.00,03/01/2015,1,10,0,38,1,3,2015,3019.0
+604,Horticulture,Onions Dry,net,13,KES975.00,03/01/2015,1,28,7,13,1,3,2015,975.0
+605,Horticulture,Mangoes Local,Bag,126,KES2525.00,03/01/2015,1,25,0,126,1,3,2015,2525.0
+606,Horticulture,Brinjals,Bag,44,KES2072.00,03/01/2015,1,4,0,44,1,3,2015,2072.0
+607,Horticulture,Cauliflower,crate,39,KES2913.00,03/01/2015,1,9,6,39,1,3,2015,2913.0
+608,Horticulture,Oranges,Bag,93,KES3357.00,03/01/2015,1,29,0,93,1,3,2015,3357.0
+609,Horticulture,Kales,Bag,50,KES2359.00,03/01/2015,1,21,0,50,1,3,2015,2359.0
+610,Horticulture,Mangoes Ngowe,Sm Basket,25,KES1055.00,03/01/2015,1,26,5,25,1,3,2015,1055.0
+611,Horticulture,Limes,net,13,KES757.00,03/01/2015,1,24,7,13,1,3,2015,757.0
+612,Horticulture,Passion Fruits,Bag,57,KES4137.00,03/01/2015,1,30,0,57,1,3,2015,4137.0
+613,Horticulture,Tomatoes,Lg Box,64,KES4504.00,03/01/2015,1,38,3,64,1,3,2015,4504.0
+614,Horticulture,Spring Onions,Bag,142,KES1792.00,03/01/2015,1,36,0,142,1,3,2015,1792.0
+615,Horticulture,Capsicums,Bag,50,KES3009.00,03/01/2015,1,6,0,50,1,3,2015,3009.0
+616,Horticulture,Lemons,Bag,95,KES2443.00,03/01/2015,1,22,0,95,1,3,2015,2443.0
+617,Horticulture,Cooking Bananas,Med Bunch,22,KES553.00,03/01/2015,1,11,4,22,1,3,2015,553.0
+618,Horticulture,Lettuce,Bag,51,KES2585.00,03/01/2015,1,23,0,51,1,3,2015,2585.0
+619,Horticulture,Pineapples,Dozen,13,KES756.00,03/01/2015,1,32,1,13,1,3,2015,756.0
+620,Horticulture,Cucumber,Bag,50,KES2384.00,03/01/2015,1,13,0,50,1,3,2015,2384.0
+621,Horticulture,Cabbages,Ext Bag,126,KES2967.00,04/01/2015,1,5,2,126,1,4,2015,2967.0
+622,Horticulture,Pineapples,Dozen,13,KES782.00,04/01/2015,1,32,1,13,1,4,2015,782.0
+623,Horticulture,Spring Onions,Bag,142,KES2059.00,04/01/2015,1,36,0,142,1,4,2015,2059.0
+624,Horticulture,Cauliflower,crate,39,KES3375.00,04/01/2015,1,9,6,39,1,4,2015,3375.0
+625,Horticulture,Cooking Bananas,Med Bunch,22,KES550.00,04/01/2015,1,11,4,22,1,4,2015,550.0
+626,Horticulture,Avocado,Bag,90,KES2210.00,04/01/2015,1,0,0,90,1,4,2015,2210.0
+627,Horticulture,Mangoes Ngowe,Sm Basket,25,KES1106.00,04/01/2015,1,26,5,25,1,4,2015,1106.0
+628,Horticulture,Capsicums,Bag,50,KES2508.00,04/01/2015,1,6,0,50,1,4,2015,2508.0
+629,Horticulture,Cucumber,Bag,50,KES2145.00,04/01/2015,1,13,0,50,1,4,2015,2145.0
+630,Horticulture,Kales,Bag,50,KES2006.00,04/01/2015,1,21,0,50,1,4,2015,2006.0
+631,Horticulture,Chillies,Bag,38,KES2968.00,04/01/2015,1,10,0,38,1,4,2015,2968.0
+632,Horticulture,Carrots,Ext Bag,138,KES4497.00,04/01/2015,1,7,2,138,1,4,2015,4497.0
+633,Horticulture,Pawpaw,Lg Box,54,KES1829.00,04/01/2015,1,31,3,54,1,4,2015,1829.0
+634,Horticulture,Onions Dry,net,13,KES1074.00,04/01/2015,1,28,7,13,1,4,2015,1074.0
+635,Horticulture,Ripe Bananas,Med Bunch,14,KES535.00,04/01/2015,1,34,4,14,1,4,2015,535.0
+636,Horticulture,Tomatoes,Lg Box,64,KES5277.00,04/01/2015,1,38,3,64,1,4,2015,5277.0
+637,Horticulture,Passion Fruits,Bag,57,KES4365.00,04/01/2015,1,30,0,57,1,4,2015,4365.0
+638,Horticulture,Mangoes Local,Bag,126,KES2407.00,04/01/2015,1,25,0,126,1,4,2015,2407.0
+639,Horticulture,Lettuce,Bag,51,KES3124.00,04/01/2015,1,23,0,51,1,4,2015,3124.0
+640,Horticulture,Brinjals,Bag,44,KES1803.00,04/01/2015,1,4,0,44,1,4,2015,1803.0
+641,Horticulture,Limes,net,13,KES986.00,04/01/2015,1,24,7,13,1,4,2015,986.0
+642,Horticulture,Oranges,Bag,93,KES3216.00,04/01/2015,1,29,0,93,1,4,2015,3216.0
+643,Horticulture,Lemons,Bag,95,KES2611.00,04/01/2015,1,22,0,95,1,4,2015,2611.0
+644,Horticulture,Cauliflower,crate,39,KES3338.00,05/01/2015,1,9,6,39,1,5,2015,3338.0
+645,Horticulture,Kales,Bag,50,KES1229.00,05/01/2015,1,21,0,50,1,5,2015,1229.0
+646,Horticulture,Lettuce,Bag,51,KES2964.00,05/01/2015,1,23,0,51,1,5,2015,2964.0
+647,Horticulture,Ripe Bananas,Med Bunch,14,KES550.00,05/01/2015,1,34,4,14,1,5,2015,550.0
+648,Horticulture,Passion Fruits,Bag,57,KES4492.00,05/01/2015,1,30,0,57,1,5,2015,4492.0
+649,Horticulture,Pawpaw,Lg Box,54,KES1683.00,05/01/2015,1,31,3,54,1,5,2015,1683.0
+650,Horticulture,Mangoes Ngowe,Sm Basket,25,KES930.00,05/01/2015,1,26,5,25,1,5,2015,930.0
+651,Horticulture,Mangoes Local,Bag,126,KES2315.00,05/01/2015,1,25,0,126,1,5,2015,2315.0
+652,Horticulture,Oranges,Bag,93,KES3261.00,05/01/2015,1,29,0,93,1,5,2015,3261.0
+653,Horticulture,Capsicums,Bag,50,KES2072.00,05/01/2015,1,6,0,50,1,5,2015,2072.0
+654,Horticulture,Cucumber,Bag,50,KES2031.00,05/01/2015,1,13,0,50,1,5,2015,2031.0
+655,Horticulture,Lemons,Bag,95,KES2573.00,05/01/2015,1,22,0,95,1,5,2015,2573.0
+656,Horticulture,Pineapples,Dozen,13,KES801.00,05/01/2015,1,32,1,13,1,5,2015,801.0
+657,Horticulture,Brinjals,Bag,44,KES1656.00,05/01/2015,1,4,0,44,1,5,2015,1656.0
+658,Horticulture,Spring Onions,Bag,142,KES1850.00,05/01/2015,1,36,0,142,1,5,2015,1850.0
+659,Horticulture,Cabbages,Ext Bag,126,KES2643.00,05/01/2015,1,5,2,126,1,5,2015,2643.0
+660,Horticulture,Cooking Bananas,Med Bunch,22,KES612.00,05/01/2015,1,11,4,22,1,5,2015,612.0
+661,Horticulture,Tomatoes,Lg Box,64,KES5664.00,05/01/2015,1,38,3,64,1,5,2015,5664.0
+662,Horticulture,Onions Dry,net,13,KES1169.00,05/01/2015,1,28,7,13,1,5,2015,1169.0
+663,Horticulture,Chillies,Bag,38,KES2131.00,05/01/2015,1,10,0,38,1,5,2015,2131.0
+664,Horticulture,Carrots,Ext Bag,138,KES4858.00,05/01/2015,1,7,2,138,1,5,2015,4858.0
+665,Horticulture,Avocado,Bag,90,KES2156.00,05/01/2015,1,0,0,90,1,5,2015,2156.0
+666,Horticulture,Limes,net,13,KES1135.00,05/01/2015,1,24,7,13,1,5,2015,1135.0
+667,Horticulture,Cauliflower,crate,39,KES2455.00,06/01/2015,1,9,6,39,1,6,2015,2455.0
+668,Horticulture,Tomatoes,Lg Box,64,KES5128.00,06/01/2015,1,38,3,64,1,6,2015,5128.0
+669,Horticulture,Limes,net,13,KES1051.00,06/01/2015,1,24,7,13,1,6,2015,1051.0
+670,Horticulture,Mangoes Local,Bag,126,KES2275.00,06/01/2015,1,25,0,126,1,6,2015,2275.0
+671,Horticulture,Chillies,Bag,38,KES2153.00,06/01/2015,1,10,0,38,1,6,2015,2153.0
+672,Horticulture,Avocado,Bag,90,KES2166.00,06/01/2015,1,0,0,90,1,6,2015,2166.0
+673,Horticulture,Ripe Bananas,Med Bunch,14,KES552.00,06/01/2015,1,34,4,14,1,6,2015,552.0
+674,Horticulture,Capsicums,Bag,50,KES2145.00,06/01/2015,1,6,0,50,1,6,2015,2145.0
+675,Horticulture,Cooking Bananas,Med Bunch,22,KES608.00,06/01/2015,1,11,4,22,1,6,2015,608.0
+676,Horticulture,Pineapples,Dozen,13,KES836.00,06/01/2015,1,32,1,13,1,6,2015,836.0
+677,Horticulture,Carrots,Ext Bag,138,KES5715.00,06/01/2015,1,7,2,138,1,6,2015,5715.0
+678,Horticulture,Lemons,Bag,95,KES2387.00,06/01/2015,1,22,0,95,1,6,2015,2387.0
+679,Horticulture,Mangoes Ngowe,Sm Basket,25,KES963.00,06/01/2015,1,26,5,25,1,6,2015,963.0
+680,Horticulture,Pawpaw,Lg Box,54,KES1688.00,06/01/2015,1,31,3,54,1,6,2015,1688.0
+681,Horticulture,Passion Fruits,Bag,57,KES4675.00,06/01/2015,1,30,0,57,1,6,2015,4675.0
+682,Horticulture,Cabbages,Ext Bag,126,KES2179.00,06/01/2015,1,5,2,126,1,6,2015,2179.0
+683,Horticulture,Oranges,Bag,93,KES3193.00,06/01/2015,1,29,0,93,1,6,2015,3193.0
+684,Horticulture,Cucumber,Bag,50,KES1624.00,06/01/2015,1,13,0,50,1,6,2015,1624.0
+685,Horticulture,Lettuce,Bag,51,KES2110.00,06/01/2015,1,23,0,51,1,6,2015,2110.0
+686,Horticulture,Brinjals,Bag,44,KES1498.00,06/01/2015,1,4,0,44,1,6,2015,1498.0
+687,Horticulture,Onions Dry,net,13,KES1259.00,06/01/2015,1,28,7,13,1,6,2015,1259.0
+688,Horticulture,Spring Onions,Bag,142,KES1798.00,06/01/2015,1,36,0,142,1,6,2015,1798.0
+689,Horticulture,Kales,Bag,50,KES1197.00,06/01/2015,1,21,0,50,1,6,2015,1197.0
+690,Horticulture,Brinjals,Bag,44,KES1511.00,07/01/2015,1,4,0,44,1,7,2015,1511.0
+691,Horticulture,Passion Fruits,Bag,57,KES4582.00,07/01/2015,1,30,0,57,1,7,2015,4582.0
+692,Horticulture,Cauliflower,crate,39,KES2902.00,07/01/2015,1,9,6,39,1,7,2015,2902.0
+693,Horticulture,Spring Onions,Bag,142,KES1797.00,07/01/2015,1,36,0,142,1,7,2015,1797.0
+694,Horticulture,Mangoes Local,Bag,126,KES2185.00,07/01/2015,1,25,0,126,1,7,2015,2185.0
+695,Horticulture,Ripe Bananas,Med Bunch,14,KES529.00,07/01/2015,1,34,4,14,1,7,2015,529.0
+696,Horticulture,Cooking Bananas,Med Bunch,22,KES589.00,07/01/2015,1,11,4,22,1,7,2015,589.0
+697,Horticulture,Cucumber,Bag,50,KES2159.00,07/01/2015,1,13,0,50,1,7,2015,2159.0
+698,Horticulture,Capsicums,Bag,50,KES2283.00,07/01/2015,1,6,0,50,1,7,2015,2283.0
+699,Horticulture,Limes,net,13,KES959.00,07/01/2015,1,24,7,13,1,7,2015,959.0
+700,Horticulture,Chillies,Bag,38,KES1955.00,07/01/2015,1,10,0,38,1,7,2015,1955.0
+701,Horticulture,Cabbages,Ext Bag,126,KES1610.00,07/01/2015,1,5,2,126,1,7,2015,1610.0
+702,Horticulture,Kales,Bag,50,KES1175.00,07/01/2015,1,21,0,50,1,7,2015,1175.0
+703,Horticulture,Onions Dry,net,13,KES1032.00,07/01/2015,1,28,7,13,1,7,2015,1032.0
+704,Horticulture,Avocado,Bag,90,KES2070.00,07/01/2015,1,0,0,90,1,7,2015,2070.0
+705,Horticulture,Mangoes Ngowe,Sm Basket,25,KES992.00,07/01/2015,1,26,5,25,1,7,2015,992.0
+706,Horticulture,Pawpaw,Lg Box,54,KES1823.00,07/01/2015,1,31,3,54,1,7,2015,1823.0
+707,Horticulture,Tomatoes,Lg Box,64,KES3969.00,07/01/2015,1,38,3,64,1,7,2015,3969.0
+708,Horticulture,Oranges,Bag,93,KES3348.00,07/01/2015,1,29,0,93,1,7,2015,3348.0
+709,Horticulture,Carrots,Ext Bag,138,KES4490.00,07/01/2015,1,7,2,138,1,7,2015,4490.0
+710,Horticulture,Lettuce,Bag,51,KES2476.00,07/01/2015,1,23,0,51,1,7,2015,2476.0
+711,Horticulture,Pineapples,Dozen,13,KES757.00,07/01/2015,1,32,1,13,1,7,2015,757.0
+712,Horticulture,Lemons,Bag,95,KES2455.00,07/01/2015,1,22,0,95,1,7,2015,2455.0
+713,Cereals,Dry Maize,Bag,90,KES2832.00,01/01/2013,0,15,0,90,1,1,2013,2832.0
+714,Cereals,Green Maize,Ext Bag,115,KES2471.00,01/01/2013,0,19,2,115,1,1,2013,2471.0
+715,Cereals,Finger Millet,Bag,90,KES6012.00,01/01/2013,0,16,0,90,1,1,2013,6012.0
+716,Cereals,Sorghum,Bag,90,KES3306.00,01/01/2013,0,35,0,90,1,1,2013,3306.0
+717,Cereals,Wheat,Bag,90,KES4058.00,01/01/2013,0,39,0,90,1,1,2013,4058.0
+718,Legumes,Beans Canadian,Bag,90,KES5729.00,01/01/2013,2,1,0,90,1,1,2013,5729.0
+719,Legumes,Beans Rosecoco,Bag,90,KES5498.00,01/01/2013,2,3,0,90,1,1,2013,5498.0
+720,Legumes,Beans Mwitemania,Bag,90,KES5132.00,01/01/2013,2,2,0,90,1,1,2013,5132.0
+721,Legumes,Mwezi Moja,Bag,90,KES5512.00,01/01/2013,2,27,0,90,1,1,2013,5512.0
+722,Legumes,Dolichos (Njahi),Bag,90,KES7383.00,01/01/2013,2,14,0,90,1,1,2013,7383.0
+723,Legumes,Green Gram,Bag,90,KES6784.00,01/01/2013,2,18,0,90,1,1,2013,6784.0
+724,Legumes,Cowpeas,Bag,90,KES5053.00,01/01/2013,2,12,0,90,1,1,2013,5053.0
+725,Legumes,Fresh Peas,Bag,51,KES2817.00,01/01/2013,2,17,0,51,1,1,2013,2817.0
+726,Legumes,Groundnuts,Bag,110,KES10679.00,01/01/2013,2,20,0,110,1,1,2013,10679.0
+727,Roots & Tubers,Red Irish Potatoes,Bag,110,KES2969.00,01/01/2013,3,33,0,110,1,1,2013,2969.0
+728,Roots & Tubers,White Irish Potatoes,Bag,110,KES3007.00,01/01/2013,3,40,0,110,1,1,2013,3007.0
+729,Roots & Tubers,Cassava Fresh,Bag,99,KES1735.00,01/01/2013,3,8,0,99,1,1,2013,1735.0
+730,Roots & Tubers,Sweet Potatoes,Bag,98,KES2526.00,01/01/2013,3,37,0,98,1,1,2013,2526.0
+731,Cereals,Dry Maize,Bag,90,KES2857.00,02/01/2013,0,15,0,90,1,2,2013,2857.0
+732,Cereals,Green Maize,Ext Bag,115,KES2963.00,02/01/2013,0,19,2,115,1,2,2013,2963.0
+733,Cereals,Finger Millet,Bag,90,KES6213.00,02/01/2013,0,16,0,90,1,2,2013,6213.0
+734,Cereals,Sorghum,Bag,90,KES3626.00,02/01/2013,0,35,0,90,1,2,2013,3626.0
+735,Cereals,Wheat,Bag,90,KES4071.00,02/01/2013,0,39,0,90,1,2,2013,4071.0
+736,Legumes,Beans Canadian,Bag,90,KES5643.00,02/01/2013,2,1,0,90,1,2,2013,5643.0
+737,Legumes,Beans Rosecoco,Bag,90,KES5390.00,02/01/2013,2,3,0,90,1,2,2013,5390.0
+738,Legumes,Beans Mwitemania,Bag,90,KES5226.00,02/01/2013,2,2,0,90,1,2,2013,5226.0
+739,Legumes,Mwezi Moja,Bag,90,KES5261.00,02/01/2013,2,27,0,90,1,2,2013,5261.0
+740,Legumes,Dolichos (Njahi),Bag,90,KES7875.00,02/01/2013,2,14,0,90,1,2,2013,7875.0
+741,Legumes,Green Gram,Bag,90,KES7340.00,02/01/2013,2,18,0,90,1,2,2013,7340.0
+742,Legumes,Cowpeas,Bag,90,KES5101.00,02/01/2013,2,12,0,90,1,2,2013,5101.0
+743,Legumes,Fresh Peas,Bag,51,KES3422.00,02/01/2013,2,17,0,51,1,2,2013,3422.0
+744,Legumes,Groundnuts,Bag,110,KES10326.00,02/01/2013,2,20,0,110,1,2,2013,10326.0
+745,Roots & Tubers,Red Irish Potatoes,Bag,110,KES3143.00,02/01/2013,3,33,0,110,1,2,2013,3143.0
+746,Roots & Tubers,White Irish Potatoes,Bag,110,KES2892.00,02/01/2013,3,40,0,110,1,2,2013,2892.0
+747,Roots & Tubers,Cassava Fresh,Bag,99,KES1685.00,02/01/2013,3,8,0,99,1,2,2013,1685.0
+748,Roots & Tubers,Sweet Potatoes,Bag,98,KES3140.00,02/01/2013,3,37,0,98,1,2,2013,3140.0
+749,Cereals,Dry Maize,Bag,90,KES2880.00,03/01/2013,0,15,0,90,1,3,2013,2880.0
+750,Cereals,Green Maize,Ext Bag,115,KES2840.00,03/01/2013,0,19,2,115,1,3,2013,2840.0
+751,Cereals,Finger Millet,Bag,90,KES5890.00,03/01/2013,0,16,0,90,1,3,2013,5890.0
+752,Cereals,Sorghum,Bag,90,KES3605.00,03/01/2013,0,35,0,90,1,3,2013,3605.0
+753,Cereals,Wheat,Bag,90,KES3911.00,03/01/2013,0,39,0,90,1,3,2013,3911.0
+754,Legumes,Beans Canadian,Bag,90,KES5475.00,03/01/2013,2,1,0,90,1,3,2013,5475.0
+755,Legumes,Beans Rosecoco,Bag,90,KES5712.00,03/01/2013,2,3,0,90,1,3,2013,5712.0
+756,Legumes,Beans Mwitemania,Bag,90,KES5241.00,03/01/2013,2,2,0,90,1,3,2013,5241.0
+757,Legumes,Mwezi Moja,Bag,90,KES5529.00,03/01/2013,2,27,0,90,1,3,2013,5529.0
+758,Legumes,Dolichos (Njahi),Bag,90,KES7473.00,03/01/2013,2,14,0,90,1,3,2013,7473.0
+759,Legumes,Green Gram,Bag,90,KES7352.00,03/01/2013,2,18,0,90,1,3,2013,7352.0
+760,Legumes,Cowpeas,Bag,90,KES6005.00,03/01/2013,2,12,0,90,1,3,2013,6005.0
+761,Legumes,Fresh Peas,Bag,51,KES2908.00,03/01/2013,2,17,0,51,1,3,2013,2908.0
+762,Legumes,Groundnuts,Bag,110,KES10938.00,03/01/2013,2,20,0,110,1,3,2013,10938.0
+763,Roots & Tubers,Red Irish Potatoes,Bag,110,KES2987.00,03/01/2013,3,33,0,110,1,3,2013,2987.0
+764,Roots & Tubers,White Irish Potatoes,Bag,110,KES2854.00,03/01/2013,3,40,0,110,1,3,2013,2854.0
+765,Roots & Tubers,Cassava Fresh,Bag,99,KES1941.00,03/01/2013,3,8,0,99,1,3,2013,1941.0
+766,Roots & Tubers,Sweet Potatoes,Bag,98,KES2645.00,03/01/2013,3,37,0,98,1,3,2013,2645.0
+767,Cereals,Dry Maize,Bag,90,KES2837.00,04/01/2013,0,15,0,90,1,4,2013,2837.0
+768,Cereals,Green Maize,Ext Bag,115,KES3006.00,04/01/2013,0,19,2,115,1,4,2013,3006.0
+769,Cereals,Finger Millet,Bag,90,KES5929.00,04/01/2013,0,16,0,90,1,4,2013,5929.0
+770,Cereals,Sorghum,Bag,90,KES3554.00,04/01/2013,0,35,0,90,1,4,2013,3554.0
+771,Cereals,Wheat,Bag,90,KES4024.00,04/01/2013,0,39,0,90,1,4,2013,4024.0
+772,Legumes,Beans Canadian,Bag,90,KES5822.00,04/01/2013,2,1,0,90,1,4,2013,5822.0
+773,Legumes,Beans Rosecoco,Bag,90,KES6202.00,04/01/2013,2,3,0,90,1,4,2013,6202.0
+774,Legumes,Beans Mwitemania,Bag,90,KES5602.00,04/01/2013,2,2,0,90,1,4,2013,5602.0
+775,Legumes,Mwezi Moja,Bag,90,KES5774.00,04/01/2013,2,27,0,90,1,4,2013,5774.0
+776,Legumes,Dolichos (Njahi),Bag,90,KES7780.00,04/01/2013,2,14,0,90,1,4,2013,7780.0
+777,Legumes,Green Gram,Bag,90,KES7819.00,04/01/2013,2,18,0,90,1,4,2013,7819.0
+778,Legumes,Cowpeas,Bag,90,KES5352.00,04/01/2013,2,12,0,90,1,4,2013,5352.0
+779,Legumes,Fresh Peas,Bag,51,KES2852.00,04/01/2013,2,17,0,51,1,4,2013,2852.0
+780,Legumes,Groundnuts,Bag,110,KES12269.00,04/01/2013,2,20,0,110,1,4,2013,12269.0
+781,Roots & Tubers,Red Irish Potatoes,Bag,110,KES2671.00,04/01/2013,3,33,0,110,1,4,2013,2671.0
+782,Roots & Tubers,White Irish Potatoes,Bag,110,KES2653.00,04/01/2013,3,40,0,110,1,4,2013,2653.0
+783,Roots & Tubers,Cassava Fresh,Bag,99,KES2102.00,04/01/2013,3,8,0,99,1,4,2013,2102.0
+784,Roots & Tubers,Sweet Potatoes,Bag,98,KES2728.00,04/01/2013,3,37,0,98,1,4,2013,2728.0
+785,Cereals,Dry Maize,Bag,90,KES2838.00,05/01/2013,0,15,0,90,1,5,2013,2838.0
+786,Cereals,Green Maize,Ext Bag,115,KES3847.00,05/01/2013,0,19,2,115,1,5,2013,3847.0
+787,Cereals,Finger Millet,Bag,90,KES6321.00,05/01/2013,0,16,0,90,1,5,2013,6321.0
+788,Cereals,Sorghum,Bag,90,KES3694.00,05/01/2013,0,35,0,90,1,5,2013,3694.0
+789,Cereals,Wheat,Bag,90,KES4365.00,05/01/2013,0,39,0,90,1,5,2013,4365.0
+790,Legumes,Beans Canadian,Bag,90,KES6046.00,05/01/2013,2,1,0,90,1,5,2013,6046.0
+791,Legumes,Beans Rosecoco,Bag,90,KES6108.00,05/01/2013,2,3,0,90,1,5,2013,6108.0
+792,Legumes,Beans Mwitemania,Bag,90,KES5846.00,05/01/2013,2,2,0,90,1,5,2013,5846.0
+793,Legumes,Mwezi Moja,Bag,90,KES6432.00,05/01/2013,2,27,0,90,1,5,2013,6432.0
+794,Legumes,Dolichos (Njahi),Bag,90,KES7892.00,05/01/2013,2,14,0,90,1,5,2013,7892.0
+795,Legumes,Green Gram,Bag,90,KES7514.00,05/01/2013,2,18,0,90,1,5,2013,7514.0
+796,Legumes,Cowpeas,Bag,90,KES5755.00,05/01/2013,2,12,0,90,1,5,2013,5755.0
+797,Legumes,Fresh Peas,Bag,51,KES4343.00,05/01/2013,2,17,0,51,1,5,2013,4343.0
+798,Legumes,Groundnuts,Bag,110,KES12019.00,05/01/2013,2,20,0,110,1,5,2013,12019.0
+799,Roots & Tubers,Red Irish Potatoes,Bag,110,KES3240.00,05/01/2013,3,33,0,110,1,5,2013,3240.0
+800,Roots & Tubers,White Irish Potatoes,Bag,110,KES3065.00,05/01/2013,3,40,0,110,1,5,2013,3065.0
+801,Roots & Tubers,Cassava Fresh,Bag,99,KES2350.00,05/01/2013,3,8,0,99,1,5,2013,2350.0
+802,Roots & Tubers,Sweet Potatoes,Bag,98,KES3185.00,05/01/2013,3,37,0,98,1,5,2013,3185.0
+803,Cereals,Dry Maize,Bag,90,KES2747.00,06/01/2013,0,15,0,90,1,6,2013,2747.0
+804,Cereals,Green Maize,Ext Bag,115,KES3229.00,06/01/2013,0,19,2,115,1,6,2013,3229.0
+805,Cereals,Finger Millet,Bag,90,KES6182.00,06/01/2013,0,16,0,90,1,6,2013,6182.0
+806,Cereals,Sorghum,Bag,90,KES3507.00,06/01/2013,0,35,0,90,1,6,2013,3507.0
+807,Cereals,Wheat,Bag,90,KES4540.00,06/01/2013,0,39,0,90,1,6,2013,4540.0
+808,Legumes,Beans Canadian,Bag,90,KES5858.00,06/01/2013,2,1,0,90,1,6,2013,5858.0
+809,Legumes,Beans Rosecoco,Bag,90,KES5668.00,06/01/2013,2,3,0,90,1,6,2013,5668.0
+810,Legumes,Beans Mwitemania,Bag,90,KES5205.00,06/01/2013,2,2,0,90,1,6,2013,5205.0
+811,Legumes,Mwezi Moja,Bag,90,KES6060.00,06/01/2013,2,27,0,90,1,6,2013,6060.0
+812,Legumes,Dolichos (Njahi),Bag,90,KES7908.00,06/01/2013,2,14,0,90,1,6,2013,7908.0
+813,Legumes,Green Gram,Bag,90,KES7181.00,06/01/2013,2,18,0,90,1,6,2013,7181.0
+814,Legumes,Cowpeas,Bag,90,KES5721.00,06/01/2013,2,12,0,90,1,6,2013,5721.0
+815,Legumes,Fresh Peas,Bag,51,KES3163.00,06/01/2013,2,17,0,51,1,6,2013,3163.0
+816,Legumes,Groundnuts,Bag,110,KES12112.00,06/01/2013,2,20,0,110,1,6,2013,12112.0
+817,Roots & Tubers,Red Irish Potatoes,Bag,110,KES3275.00,06/01/2013,3,33,0,110,1,6,2013,3275.0
+818,Roots & Tubers,White Irish Potatoes,Bag,110,KES3206.00,06/01/2013,3,40,0,110,1,6,2013,3206.0
+819,Roots & Tubers,Cassava Fresh,Bag,99,KES1938.00,06/01/2013,3,8,0,99,1,6,2013,1938.0
+820,Roots & Tubers,Sweet Potatoes,Bag,98,KES3259.00,06/01/2013,3,37,0,98,1,6,2013,3259.0
+821,Cereals,Dry Maize,Bag,90,KES2722.00,07/01/2013,0,15,0,90,1,7,2013,2722.0
+822,Cereals,Green Maize,Ext Bag,115,KES2924.00,07/01/2013,0,19,2,115,1,7,2013,2924.0
+823,Cereals,Finger Millet,Bag,90,KES5795.00,07/01/2013,0,16,0,90,1,7,2013,5795.0
+824,Cereals,Sorghum,Bag,90,KES3363.00,07/01/2013,0,35,0,90,1,7,2013,3363.0
+825,Cereals,Wheat,Bag,90,KES4293.00,07/01/2013,0,39,0,90,1,7,2013,4293.0
+826,Legumes,Beans Canadian,Bag,90,KES5459.00,07/01/2013,2,1,0,90,1,7,2013,5459.0
+827,Legumes,Beans Rosecoco,Bag,90,KES5489.00,07/01/2013,2,3,0,90,1,7,2013,5489.0
+828,Legumes,Beans Mwitemania,Bag,90,KES4997.00,07/01/2013,2,2,0,90,1,7,2013,4997.0
+829,Legumes,Mwezi Moja,Bag,90,KES5285.00,07/01/2013,2,27,0,90,1,7,2013,5285.0
+830,Legumes,Dolichos (Njahi),Bag,90,KES7576.00,07/01/2013,2,14,0,90,1,7,2013,7576.0
+831,Legumes,Green Gram,Bag,90,KES6948.00,07/01/2013,2,18,0,90,1,7,2013,6948.0
+832,Legumes,Cowpeas,Bag,90,KES5246.00,07/01/2013,2,12,0,90,1,7,2013,5246.0
+833,Legumes,Fresh Peas,Bag,51,KES2614.00,07/01/2013,2,17,0,51,1,7,2013,2614.0
+834,Legumes,Groundnuts,Bag,110,KES11216.00,07/01/2013,2,20,0,110,1,7,2013,11216.0
+835,Roots & Tubers,Red Irish Potatoes,Bag,110,KES2940.00,07/01/2013,3,33,0,110,1,7,2013,2940.0
+836,Roots & Tubers,White Irish Potatoes,Bag,110,KES2916.00,07/01/2013,3,40,0,110,1,7,2013,2916.0
+837,Roots & Tubers,Cassava Fresh,Bag,99,KES2004.00,07/01/2013,3,8,0,99,1,7,2013,2004.0
+838,Roots & Tubers,Sweet Potatoes,Bag,98,KES2957.00,07/01/2013,3,37,0,98,1,7,2013,2957.0
+839,Cereals,Dry Maize,Bag,90,KES2703.00,08/01/2013,0,15,0,90,1,8,2013,2703.0
+840,Cereals,Green Maize,Ext Bag,115,KES2475.00,08/01/2013,0,19,2,115,1,8,2013,2475.0
+841,Cereals,Finger Millet,Bag,90,KES5767.00,08/01/2013,0,16,0,90,1,8,2013,5767.0
+842,Cereals,Sorghum,Bag,90,KES3533.00,08/01/2013,0,35,0,90,1,8,2013,3533.0
+843,Cereals,Wheat,Bag,90,KES4084.00,08/01/2013,0,39,0,90,1,8,2013,4084.0
+844,Legumes,Beans Canadian,Bag,90,KES5434.00,08/01/2013,2,1,0,90,1,8,2013,5434.0
+845,Legumes,Beans Rosecoco,Bag,90,KES5701.00,08/01/2013,2,3,0,90,1,8,2013,5701.0
+846,Legumes,Beans Mwitemania,Bag,90,KES4972.00,08/01/2013,2,2,0,90,1,8,2013,4972.0
+847,Legumes,Mwezi Moja,Bag,90,KES5086.00,08/01/2013,2,27,0,90,1,8,2013,5086.0
+848,Legumes,Dolichos (Njahi),Bag,90,KES7580.00,08/01/2013,2,14,0,90,1,8,2013,7580.0
+849,Legumes,Green Gram,Bag,90,KES6925.00,08/01/2013,2,18,0,90,1,8,2013,6925.0
+850,Legumes,Cowpeas,Bag,90,KES5026.00,08/01/2013,2,12,0,90,1,8,2013,5026.0
+851,Legumes,Fresh Peas,Bag,51,KES2539.00,08/01/2013,2,17,0,51,1,8,2013,2539.0
+852,Legumes,Groundnuts,Bag,110,KES10877.00,08/01/2013,2,20,0,110,1,8,2013,10877.0
+853,Roots & Tubers,Red Irish Potatoes,Bag,110,KES2950.00,08/01/2013,3,33,0,110,1,8,2013,2950.0
+854,Roots & Tubers,White Irish Potatoes,Bag,110,KES2927.00,08/01/2013,3,40,0,110,1,8,2013,2927.0
+855,Roots & Tubers,Cassava Fresh,Bag,99,KES1956.00,08/01/2013,3,8,0,99,1,8,2013,1956.0
+856,Roots & Tubers,Sweet Potatoes,Bag,98,KES2604.00,08/01/2013,3,37,0,98,1,8,2013,2604.0
+857,Cereals,Dry Maize,Bag,90,KES2829.00,09/01/2013,0,15,0,90,1,9,2013,2829.0
+858,Cereals,Green Maize,Ext Bag,115,KES2630.00,09/01/2013,0,19,2,115,1,9,2013,2630.0
+859,Cereals,Finger Millet,Bag,90,KES5820.00,09/01/2013,0,16,0,90,1,9,2013,5820.0
+860,Cereals,Sorghum,Bag,90,KES3471.00,09/01/2013,0,35,0,90,1,9,2013,3471.0
+861,Cereals,Wheat,Bag,90,KES4024.00,09/01/2013,0,39,0,90,1,9,2013,4024.0
+862,Legumes,Beans Canadian,Bag,90,KES5547.00,09/01/2013,2,1,0,90,1,9,2013,5547.0
+863,Legumes,Beans Rosecoco,Bag,90,KES5973.00,09/01/2013,2,3,0,90,1,9,2013,5973.0
+864,Legumes,Beans Mwitemania,Bag,90,KES5220.00,09/01/2013,2,2,0,90,1,9,2013,5220.0
+865,Legumes,Mwezi Moja,Bag,90,KES5480.00,09/01/2013,2,27,0,90,1,9,2013,5480.0
+866,Legumes,Dolichos (Njahi),Bag,90,KES7323.00,09/01/2013,2,14,0,90,1,9,2013,7323.0
+867,Legumes,Green Gram,Bag,90,KES7160.00,09/01/2013,2,18,0,90,1,9,2013,7160.0
+868,Legumes,Cowpeas,Bag,90,KES5227.00,09/01/2013,2,12,0,90,1,9,2013,5227.0
+869,Legumes,Fresh Peas,Bag,51,KES2856.00,09/01/2013,2,17,0,51,1,9,2013,2856.0
+870,Legumes,Groundnuts,Bag,110,KES11481.00,09/01/2013,2,20,0,110,1,9,2013,11481.0
+871,Roots & Tubers,Red Irish Potatoes,Bag,110,KES3045.00,09/01/2013,3,33,0,110,1,9,2013,3045.0
+872,Roots & Tubers,White Irish Potatoes,Bag,110,KES3014.00,09/01/2013,3,40,0,110,1,9,2013,3014.0
+873,Roots & Tubers,Cassava Fresh,Bag,99,KES2175.00,09/01/2013,3,8,0,99,1,9,2013,2175.0
+874,Roots & Tubers,Sweet Potatoes,Bag,98,KES2655.00,09/01/2013,3,37,0,98,1,9,2013,2655.0
+875,Cereals,Dry Maize,Bag,90,KES2943.00,10/01/2013,0,15,0,90,1,10,2013,2943.0
+876,Cereals,Green Maize,Ext Bag,115,KES2451.00,10/01/2013,0,19,2,115,1,10,2013,2451.0
+877,Cereals,Finger Millet,Bag,90,KES6032.00,10/01/2013,0,16,0,90,1,10,2013,6032.0
+878,Cereals,Sorghum,Bag,90,KES3629.00,10/01/2013,0,35,0,90,1,10,2013,3629.0
+879,Cereals,Wheat,Bag,90,KES3524.00,10/01/2013,0,39,0,90,1,10,2013,3524.0
+880,Legumes,Beans Canadian,Bag,90,KES5984.00,10/01/2013,2,1,0,90,1,10,2013,5984.0
+881,Legumes,Beans Rosecoco,Bag,90,KES5943.00,10/01/2013,2,3,0,90,1,10,2013,5943.0
+882,Legumes,Beans Mwitemania,Bag,90,KES5366.00,10/01/2013,2,2,0,90,1,10,2013,5366.0
+883,Legumes,Mwezi Moja,Bag,90,KES5869.00,10/01/2013,2,27,0,90,1,10,2013,5869.0
+884,Legumes,Dolichos (Njahi),Bag,90,KES7079.00,10/01/2013,2,14,0,90,1,10,2013,7079.0
+885,Legumes,Green Gram,Bag,90,KES7461.00,10/01/2013,2,18,0,90,1,10,2013,7461.0
+886,Legumes,Cowpeas,Bag,90,KES5322.00,10/01/2013,2,12,0,90,1,10,2013,5322.0
+887,Legumes,Fresh Peas,Bag,51,KES2537.00,10/01/2013,2,17,0,51,1,10,2013,2537.0
+888,Legumes,Groundnuts,Bag,110,KES11555.00,10/01/2013,2,20,0,110,1,10,2013,11555.0
+889,Roots & Tubers,Red Irish Potatoes,Bag,110,KES3124.00,10/01/2013,3,33,0,110,1,10,2013,3124.0
+890,Roots & Tubers,White Irish Potatoes,Bag,110,KES3014.00,10/01/2013,3,40,0,110,1,10,2013,3014.0
+891,Roots & Tubers,Cassava Fresh,Bag,99,KES1896.00,10/01/2013,3,8,0,99,1,10,2013,1896.0
+892,Roots & Tubers,Sweet Potatoes,Bag,98,KES2746.00,10/01/2013,3,37,0,98,1,10,2013,2746.0
+893,Cereals,Dry Maize,Bag,90,KES3033.00,11/01/2013,0,15,0,90,1,11,2013,3033.0
+894,Cereals,Green Maize,Ext Bag,115,KES2836.00,11/01/2013,0,19,2,115,1,11,2013,2836.0
+895,Cereals,Finger Millet,Bag,90,KES6072.00,11/01/2013,0,16,0,90,1,11,2013,6072.0
+896,Cereals,Sorghum,Bag,90,KES3780.00,11/01/2013,0,35,0,90,1,11,2013,3780.0
+897,Cereals,Wheat,Bag,90,KES3697.00,11/01/2013,0,39,0,90,1,11,2013,3697.0
+898,Legumes,Beans Canadian,Bag,90,KES6225.00,11/01/2013,2,1,0,90,1,11,2013,6225.0
+899,Legumes,Beans Rosecoco,Bag,90,KES5973.00,11/01/2013,2,3,0,90,1,11,2013,5973.0
+900,Legumes,Beans Mwitemania,Bag,90,KES5374.00,11/01/2013,2,2,0,90,1,11,2013,5374.0
+901,Legumes,Mwezi Moja,Bag,90,KES5939.00,11/01/2013,2,27,0,90,1,11,2013,5939.0
+902,Legumes,Dolichos (Njahi),Bag,90,KES7127.00,11/01/2013,2,14,0,90,1,11,2013,7127.0
+903,Legumes,Green Gram,Bag,90,KES7916.00,11/01/2013,2,18,0,90,1,11,2013,7916.0
+904,Legumes,Cowpeas,Bag,90,KES5782.00,11/01/2013,2,12,0,90,1,11,2013,5782.0
+905,Legumes,Fresh Peas,Bag,51,KES2272.00,11/01/2013,2,17,0,51,1,11,2013,2272.0
+906,Legumes,Groundnuts,Bag,110,KES11877.00,11/01/2013,2,20,0,110,1,11,2013,11877.0
+907,Roots & Tubers,Red Irish Potatoes,Bag,110,KES3326.00,11/01/2013,3,33,0,110,1,11,2013,3326.0
+908,Roots & Tubers,White Irish Potatoes,Bag,110,KES3291.00,11/01/2013,3,40,0,110,1,11,2013,3291.0
+909,Roots & Tubers,Cassava Fresh,Bag,99,KES2023.00,11/01/2013,3,8,0,99,1,11,2013,2023.0
+910,Roots & Tubers,Sweet Potatoes,Bag,98,KES2862.00,11/01/2013,3,37,0,98,1,11,2013,2862.0
+911,Cereals,Dry Maize,Bag,90,KES3037.00,12/01/2013,0,15,0,90,1,12,2013,3037.0
+912,Cereals,Green Maize,Ext Bag,115,KES3050.00,12/01/2013,0,19,2,115,1,12,2013,3050.0
+913,Cereals,Finger Millet,Bag,90,KES5823.00,12/01/2013,0,16,0,90,1,12,2013,5823.0
+914,Cereals,Sorghum,Bag,90,KES3851.00,12/01/2013,0,35,0,90,1,12,2013,3851.0
+915,Cereals,Wheat,Bag,90,KES4144.00,12/01/2013,0,39,0,90,1,12,2013,4144.0
+916,Legumes,Beans Canadian,Bag,90,KES5978.00,12/01/2013,2,1,0,90,1,12,2013,5978.0
+917,Legumes,Beans Rosecoco,Bag,90,KES5942.00,12/01/2013,2,3,0,90,1,12,2013,5942.0
+918,Legumes,Beans Mwitemania,Bag,90,KES5397.00,12/01/2013,2,2,0,90,1,12,2013,5397.0
+919,Legumes,Mwezi Moja,Bag,90,KES5813.00,12/01/2013,2,27,0,90,1,12,2013,5813.0
+920,Legumes,Dolichos (Njahi),Bag,90,KES7429.00,12/01/2013,2,14,0,90,1,12,2013,7429.0
+921,Legumes,Green Gram,Bag,90,KES7916.00,12/01/2013,2,18,0,90,1,12,2013,7916.0
+922,Legumes,Cowpeas,Bag,90,KES5702.00,12/01/2013,2,12,0,90,1,12,2013,5702.0
+923,Legumes,Fresh Peas,Bag,51,KES2762.00,12/01/2013,2,17,0,51,1,12,2013,2762.0
+924,Legumes,Groundnuts,Bag,110,KES11417.00,12/01/2013,2,20,0,110,1,12,2013,11417.0
+925,Roots & Tubers,Red Irish Potatoes,Bag,110,KES3019.00,12/01/2013,3,33,0,110,1,12,2013,3019.0
+926,Roots & Tubers,White Irish Potatoes,Bag,110,KES2967.00,12/01/2013,3,40,0,110,1,12,2013,2967.0
+927,Roots & Tubers,Cassava Fresh,Bag,99,KES2068.00,12/01/2013,3,8,0,99,1,12,2013,2068.0
+928,Roots & Tubers,Sweet Potatoes,Bag,98,KES2777.00,12/01/2013,3,37,0,98,1,12,2013,2777.0
+929,Cereals,Dry Maize,Bag,90,KES2435.00,01/01/2015,0,15,0,90,1,1,2015,2435.0
+930,Cereals,Green Maize,Ext Bag,115,KES3237.00,01/01/2015,0,19,2,115,1,1,2015,3237.0
+931,Cereals,Finger Millet,Bag,90,KES6868.00,01/01/2015,0,16,0,90,1,1,2015,6868.0
+932,Cereals,Sorghum,Bag,90,KES3756.00,01/01/2015,0,35,0,90,1,1,2015,3756.0
+933,Cereals,Wheat,Bag,90,KES3477.00,01/01/2015,0,39,0,90,1,1,2015,3477.0
+934,Legumes,Beans Canadian,Bag,90,KES6277.00,01/01/2015,2,1,0,90,1,1,2015,6277.0
+935,Legumes,Beans Rosecoco,Bag,90,KES6111.00,01/01/2015,2,3,0,90,1,1,2015,6111.0
+936,Legumes,Beans Mwitemania,Bag,90,KES5871.00,01/01/2015,2,2,0,90,1,1,2015,5871.0
+937,Legumes,Mwezi Moja,Bag,90,KES5349.00,01/01/2015,2,27,0,90,1,1,2015,5349.0
+938,Legumes,Dolichos (Njahi),Bag,90,KES7042.00,01/01/2015,2,14,0,90,1,1,2015,7042.0
+939,Legumes,Green Gram,Bag,90,KES11143.00,01/01/2015,2,18,0,90,1,1,2015,11143.0
+940,Legumes,Cowpeas,Bag,90,KES6764.00,01/01/2015,2,12,0,90,1,1,2015,6764.0
+941,Legumes,Fresh Peas,Bag,51,KES2461.00,01/01/2015,2,17,0,51,1,1,2015,2461.0
+942,Legumes,Groundnuts,Bag,110,KES11559.00,01/01/2015,2,20,0,110,1,1,2015,11559.0
+943,Roots & Tubers,Red Irish Potatoes,Bag,110,KES2490.00,01/01/2015,3,33,0,110,1,1,2015,2490.0
+944,Roots & Tubers,White Irish Potatoes,Bag,110,KES2515.00,01/01/2015,3,40,0,110,1,1,2015,2515.0
+945,Roots & Tubers,Cassava Fresh,Bag,99,KES1753.00,01/01/2015,3,8,0,99,1,1,2015,1753.0
+946,Roots & Tubers,Sweet Potatoes,Bag,98,KES2677.00,01/01/2015,3,37,0,98,1,1,2015,2677.0
+947,Cereals,Dry Maize,Bag,90,KES2417.00,02/01/2015,0,15,0,90,1,2,2015,2417.0
+948,Cereals,Green Maize,Ext Bag,115,KES2653.00,02/01/2015,0,19,2,115,1,2,2015,2653.0
+949,Cereals,Finger Millet,Bag,90,KES6906.00,02/01/2015,0,16,0,90,1,2,2015,6906.0
+950,Cereals,Sorghum,Bag,90,KES4202.00,02/01/2015,0,35,0,90,1,2,2015,4202.0
+951,Cereals,Wheat,Bag,90,KES3662.00,02/01/2015,0,39,0,90,1,2,2015,3662.0
+952,Legumes,Beans Canadian,Bag,90,KES6151.00,02/01/2015,2,1,0,90,1,2,2015,6151.0
+953,Legumes,Beans Rosecoco,Bag,90,KES6484.00,02/01/2015,2,3,0,90,1,2,2015,6484.0
+954,Legumes,Beans Mwitemania,Bag,90,KES6269.00,02/01/2015,2,2,0,90,1,2,2015,6269.0
+955,Legumes,Mwezi Moja,Bag,90,KES4783.00,02/01/2015,2,27,0,90,1,2,2015,4783.0
+956,Legumes,Dolichos (Njahi),Bag,90,KES8023.00,02/01/2015,2,14,0,90,1,2,2015,8023.0
+957,Legumes,Green Gram,Bag,90,KES11535.00,02/01/2015,2,18,0,90,1,2,2015,11535.0
+958,Legumes,Cowpeas,Bag,90,KES7208.00,02/01/2015,2,12,0,90,1,2,2015,7208.0
+959,Legumes,Fresh Peas,Bag,51,KES2511.00,02/01/2015,2,17,0,51,1,2,2015,2511.0
+960,Legumes,Groundnuts,Bag,110,KES11926.00,02/01/2015,2,20,0,110,1,2,2015,11926.0
+961,Roots & Tubers,Red Irish Potatoes,Bag,110,KES2761.00,02/01/2015,3,33,0,110,1,2,2015,2761.0
+962,Roots & Tubers,White Irish Potatoes,Bag,110,KES2690.00,02/01/2015,3,40,0,110,1,2,2015,2690.0
+963,Roots & Tubers,Cassava Fresh,Bag,99,KES1893.00,02/01/2015,3,8,0,99,1,2,2015,1893.0
+964,Roots & Tubers,Sweet Potatoes,Bag,98,KES2541.00,02/01/2015,3,37,0,98,1,2,2015,2541.0
+965,Cereals,Dry Maize,Bag,90,KES2473.00,03/01/2015,0,15,0,90,1,3,2015,2473.0
+966,Cereals,Green Maize,Ext Bag,115,KES2795.00,03/01/2015,0,19,2,115,1,3,2015,2795.0
+967,Cereals,Finger Millet,Bag,90,KES6916.00,03/01/2015,0,16,0,90,1,3,2015,6916.0
+968,Cereals,Sorghum,Bag,90,KES4183.00,03/01/2015,0,35,0,90,1,3,2015,4183.0
+969,Cereals,Wheat,Bag,90,KES3739.00,03/01/2015,0,39,0,90,1,3,2015,3739.0
+970,Legumes,Beans Canadian,Bag,90,KES6525.00,03/01/2015,2,1,0,90,1,3,2015,6525.0
+971,Legumes,Beans Rosecoco,Bag,90,KES6850.00,03/01/2015,2,3,0,90,1,3,2015,6850.0
+972,Legumes,Beans Mwitemania,Bag,90,KES6321.00,03/01/2015,2,2,0,90,1,3,2015,6321.0
+973,Legumes,Mwezi Moja,Bag,90,KES5382.00,03/01/2015,2,27,0,90,1,3,2015,5382.0
+974,Legumes,Dolichos (Njahi),Bag,90,KES8228.00,03/01/2015,2,14,0,90,1,3,2015,8228.0
+975,Legumes,Green Gram,Bag,90,KES11315.00,03/01/2015,2,18,0,90,1,3,2015,11315.0
+976,Legumes,Cowpeas,Bag,90,KES7436.00,03/01/2015,2,12,0,90,1,3,2015,7436.0
+977,Legumes,Fresh Peas,Bag,51,KES3015.00,03/01/2015,2,17,0,51,1,3,2015,3015.0
+978,Legumes,Groundnuts,Bag,110,,03/01/2015,2,20,0,110,1,3,2015,3188.371828521435
+979,Roots & Tubers,Red Irish Potatoes,Bag,110,KES2686.00,03/01/2015,3,33,0,110,1,3,2015,2686.0
+980,Roots & Tubers,White Irish Potatoes,Bag,110,KES2556.00,03/01/2015,3,40,0,110,1,3,2015,2556.0
+981,Roots & Tubers,Cassava Fresh,Bag,99,KES1940.00,03/01/2015,3,8,0,99,1,3,2015,1940.0
+982,Roots & Tubers,Sweet Potatoes,Bag,98,KES2687.00,03/01/2015,3,37,0,98,1,3,2015,2687.0
+983,Cereals,Dry Maize,Bag,90,KES2796.00,04/01/2015,0,15,0,90,1,4,2015,2796.0
+984,Cereals,Green Maize,Ext Bag,115,KES3567.00,04/01/2015,0,19,2,115,1,4,2015,3567.0
+985,Cereals,Finger Millet,Bag,90,KES7149.00,04/01/2015,0,16,0,90,1,4,2015,7149.0
+986,Cereals,Sorghum,Bag,90,KES3816.00,04/01/2015,0,35,0,90,1,4,2015,3816.0
+987,Cereals,Wheat,Bag,90,KES3628.00,04/01/2015,0,39,0,90,1,4,2015,3628.0
+988,Legumes,Beans Canadian,Bag,90,KES7148.00,04/01/2015,2,1,0,90,1,4,2015,7148.0
+989,Legumes,Beans Rosecoco,Bag,90,KES7124.00,04/01/2015,2,3,0,90,1,4,2015,7124.0
+990,Legumes,Beans Mwitemania,Bag,90,KES6402.00,04/01/2015,2,2,0,90,1,4,2015,6402.0
+991,Legumes,Mwezi Moja,Bag,90,KES5798.00,04/01/2015,2,27,0,90,1,4,2015,5798.0
+992,Legumes,Dolichos (Njahi),Bag,90,KES9182.00,04/01/2015,2,14,0,90,1,4,2015,9182.0
+993,Legumes,Green Gram,Bag,90,KES11454.00,04/01/2015,2,18,0,90,1,4,2015,11454.0
+994,Legumes,Cowpeas,Bag,90,KES6983.00,04/01/2015,2,12,0,90,1,4,2015,6983.0
+995,Legumes,Fresh Peas,Bag,51,KES3842.00,04/01/2015,2,17,0,51,1,4,2015,3842.0
+996,Legumes,Groundnuts,Bag,110,,04/01/2015,2,20,0,110,1,4,2015,3188.371828521435
+997,Roots & Tubers,Red Irish Potatoes,Bag,110,KES3502.00,04/01/2015,3,33,0,110,1,4,2015,3502.0
+998,Roots & Tubers,White Irish Potatoes,Bag,110,KES3511.00,04/01/2015,3,40,0,110,1,4,2015,3511.0
+999,Roots & Tubers,Cassava Fresh,Bag,99,KES1941.00,04/01/2015,3,8,0,99,1,4,2015,1941.0
+1000,Roots & Tubers,Sweet Potatoes,Bag,98,KES2819.00,04/01/2015,3,37,0,98,1,4,2015,2819.0
+1001,Cereals,Dry Maize,Bag,90,KES2925.00,05/01/2015,0,15,0,90,1,5,2015,2925.0
+1002,Cereals,Green Maize,Ext Bag,115,KES3872.00,05/01/2015,0,19,2,115,1,5,2015,3872.0
+1003,Cereals,Finger Millet,Bag,90,KES7216.00,05/01/2015,0,16,0,90,1,5,2015,7216.0
+1004,Cereals,Sorghum,Bag,90,KES3877.00,05/01/2015,0,35,0,90,1,5,2015,3877.0
+1005,Cereals,Wheat,Bag,90,KES3653.00,05/01/2015,0,39,0,90,1,5,2015,3653.0
+1006,Legumes,Beans Canadian,Bag,90,KES7453.00,05/01/2015,2,1,0,90,1,5,2015,7453.0
+1007,Legumes,Beans Rosecoco,Bag,90,KES7522.00,05/01/2015,2,3,0,90,1,5,2015,7522.0
+1008,Legumes,Beans Mwitemania,Bag,90,KES6903.00,05/01/2015,2,2,0,90,1,5,2015,6903.0
+1009,Legumes,Mwezi Moja,Bag,90,KES6426.00,05/01/2015,2,27,0,90,1,5,2015,6426.0
+1010,Legumes,Dolichos (Njahi),Bag,90,KES10486.00,05/01/2015,2,14,0,90,1,5,2015,10486.0
+1011,Legumes,Green Gram,Bag,90,KES11905.00,05/01/2015,2,18,0,90,1,5,2015,11905.0
+1012,Legumes,Cowpeas,Bag,90,KES7509.00,05/01/2015,2,12,0,90,1,5,2015,7509.0
+1013,Legumes,Fresh Peas,Bag,51,KES3924.00,05/01/2015,2,17,0,51,1,5,2015,3924.0
+1014,Legumes,Groundnuts,Bag,110,KES12802.00,05/01/2015,2,20,0,110,1,5,2015,12802.0
+1015,Roots & Tubers,Red Irish Potatoes,Bag,110,KES3812.00,05/01/2015,3,33,0,110,1,5,2015,3812.0
+1016,Roots & Tubers,White Irish Potatoes,Bag,110,KES3935.00,05/01/2015,3,40,0,110,1,5,2015,3935.0
+1017,Roots & Tubers,Cassava Fresh,Bag,99,KES1883.00,05/01/2015,3,8,0,99,1,5,2015,1883.0
+1018,Roots & Tubers,Sweet Potatoes,Bag,98,KES2928.00,05/01/2015,3,37,0,98,1,5,2015,2928.0
+1019,Cereals,Dry Maize,Bag,90,KES2883.00,06/01/2015,0,15,0,90,1,6,2015,2883.0
+1020,Cereals,Green Maize,Ext Bag,115,KES3466.00,06/01/2015,0,19,2,115,1,6,2015,3466.0
+1021,Cereals,Finger Millet,Bag,90,KES7155.00,06/01/2015,0,16,0,90,1,6,2015,7155.0
+1022,Cereals,Sorghum,Bag,90,KES3845.00,06/01/2015,0,35,0,90,1,6,2015,3845.0
+1023,Cereals,Wheat,Bag,90,KES3747.00,06/01/2015,0,39,0,90,1,6,2015,3747.0
+1024,Legumes,Beans Canadian,Bag,90,KES7471.00,06/01/2015,2,1,0,90,1,6,2015,7471.0
+1025,Legumes,Beans Rosecoco,Bag,90,KES7186.00,06/01/2015,2,3,0,90,1,6,2015,7186.0
+1026,Legumes,Beans Mwitemania,Bag,90,KES6535.00,06/01/2015,2,2,0,90,1,6,2015,6535.0
+1027,Legumes,Mwezi Moja,Bag,90,KES7279.00,06/01/2015,2,27,0,90,1,6,2015,7279.0
+1028,Legumes,Dolichos (Njahi),Bag,90,KES9988.00,06/01/2015,2,14,0,90,1,6,2015,9988.0
+1029,Legumes,Green Gram,Bag,90,KES10722.00,06/01/2015,2,18,0,90,1,6,2015,10722.0
+1030,Legumes,Cowpeas,Bag,90,KES7315.00,06/01/2015,2,12,0,90,1,6,2015,7315.0
+1031,Legumes,Fresh Peas,Bag,51,KES3505.00,06/01/2015,2,17,0,51,1,6,2015,3505.0
+1032,Legumes,Groundnuts,Bag,110,KES12797.00,06/01/2015,2,20,0,110,1,6,2015,12797.0
+1033,Roots & Tubers,Red Irish Potatoes,Bag,110,KES2776.00,06/01/2015,3,33,0,110,1,6,2015,2776.0
+1034,Roots & Tubers,White Irish Potatoes,Bag,110,KES2978.00,06/01/2015,3,40,0,110,1,6,2015,2978.0
+1035,Roots & Tubers,Cassava Fresh,Bag,99,KES2124.00,06/01/2015,3,8,0,99,1,6,2015,2124.0
+1036,Roots & Tubers,Sweet Potatoes,Bag,98,KES2705.00,06/01/2015,3,37,0,98,1,6,2015,2705.0
+1037,Cereals,Dry Maize,Bag,90,KES2969.00,07/01/2015,0,15,0,90,1,7,2015,2969.0
+1038,Cereals,Green Maize,Ext Bag,115,KES2860.00,07/01/2015,0,19,2,115,1,7,2015,2860.0
+1039,Cereals,Finger Millet,Bag,90,KES6883.00,07/01/2015,0,16,0,90,1,7,2015,6883.0
+1040,Cereals,Sorghum,Bag,90,KES3856.00,07/01/2015,0,35,0,90,1,7,2015,3856.0
+1041,Cereals,Wheat,Bag,90,KES3915.00,07/01/2015,0,39,0,90,1,7,2015,3915.0
+1042,Legumes,Beans Canadian,Bag,90,KES6595.00,07/01/2015,2,1,0,90,1,7,2015,6595.0
+1043,Legumes,Beans Rosecoco,Bag,90,KES6302.00,07/01/2015,2,3,0,90,1,7,2015,6302.0
+1044,Legumes,Beans Mwitemania,Bag,90,KES5685.00,07/01/2015,2,2,0,90,1,7,2015,5685.0
+1045,Legumes,Mwezi Moja,Bag,90,KES6201.00,07/01/2015,2,27,0,90,1,7,2015,6201.0
+1046,Legumes,Dolichos (Njahi),Bag,90,KES10509.00,07/01/2015,2,14,0,90,1,7,2015,10509.0
+1047,Legumes,Green Gram,Bag,90,KES10252.00,07/01/2015,2,18,0,90,1,7,2015,10252.0
+1048,Legumes,Cowpeas,Bag,90,KES6525.00,07/01/2015,2,12,0,90,1,7,2015,6525.0
+1049,Legumes,Fresh Peas,Bag,51,KES2525.00,07/01/2015,2,17,0,51,1,7,2015,2525.0
+1050,Legumes,Groundnuts,Bag,110,KES13713.00,07/01/2015,2,20,0,110,1,7,2015,13713.0
+1051,Roots & Tubers,Red Irish Potatoes,Bag,110,KES1840.00,07/01/2015,3,33,0,110,1,7,2015,1840.0
+1052,Roots & Tubers,White Irish Potatoes,Bag,110,KES2002.00,07/01/2015,3,40,0,110,1,7,2015,2002.0
+1053,Roots & Tubers,Cassava Fresh,Bag,99,KES1912.00,07/01/2015,3,8,0,99,1,7,2015,1912.0
+1054,Roots & Tubers,Sweet Potatoes,Bag,98,KES2764.00,07/01/2015,3,37,0,98,1,7,2015,2764.0
+1055,Cereals,Dry Maize,Bag,90,KES2910.00,08/25/2015,0,15,0,90,25,8,2015,2910.0
+1056,Cereals,Green Maize,Ext Bag,115,KES2557.00,08/25/2015,0,19,2,115,25,8,2015,2557.0
+1057,Cereals,Finger Millet,Bag,90,KES6714.00,08/25/2015,0,16,0,90,25,8,2015,6714.0
+1058,Cereals,Sorghum,Bag,90,KES3683.00,08/25/2015,0,35,0,90,25,8,2015,3683.0
+1059,Cereals,Wheat,Bag,90,KES3674.00,08/25/2015,0,39,0,90,25,8,2015,3674.0
+1060,Legumes,Beans Canadian,Bag,90,KES6187.00,08/25/2015,2,1,0,90,25,8,2015,6187.0
+1061,Legumes,Beans Rosecoco,Bag,90,KES5850.00,08/25/2015,2,3,0,90,25,8,2015,5850.0
+1062,Legumes,Beans Mwitemania,Bag,90,KES5277.00,08/25/2015,2,2,0,90,25,8,2015,5277.0
+1063,Legumes,Mwezi Moja,Bag,90,KES5579.00,08/25/2015,2,27,0,90,25,8,2015,5579.0
+1064,Legumes,Dolichos (Njahi),Bag,90,KES10733.00,08/25/2015,2,14,0,90,25,8,2015,10733.0
+1065,Legumes,Green Gram,Bag,90,KES9354.00,08/25/2015,2,18,0,90,25,8,2015,9354.0
+1066,Legumes,Cowpeas,Bag,90,KES6291.00,08/25/2015,2,12,0,90,25,8,2015,6291.0
+1067,Legumes,Fresh Peas,Bag,51,KES2078.00,08/25/2015,2,17,0,51,25,8,2015,2078.0
+1068,Legumes,Groundnuts,Bag,110,KES12313.00,08/25/2015,2,20,0,110,25,8,2015,12313.0
+1069,Roots & Tubers,Red Irish Potatoes,Bag,110,KES1823.00,08/25/2015,3,33,0,110,25,8,2015,1823.0
+1070,Roots & Tubers,White Irish Potatoes,Bag,110,KES1915.00,08/25/2015,3,40,0,110,25,8,2015,1915.0
+1071,Roots & Tubers,Cassava Fresh,Bag,99,KES1907.00,08/25/2015,3,8,0,99,25,8,2015,1907.0
+1072,Roots & Tubers,Sweet Potatoes,Bag,98,KES2723.00,08/25/2015,3,37,0,98,25,8,2015,2723.0
+1073,Cereals,Dry Maize,Bag,90,KES2726.00,09/25/2015,0,15,0,90,25,9,2015,2726.0
+1074,Cereals,Green Maize,Ext Bag,115,KES2415.00,09/25/2015,0,19,2,115,25,9,2015,2415.0
+1075,Cereals,Finger Millet,Bag,90,KES6568.00,09/25/2015,0,16,0,90,25,9,2015,6568.0
+1076,Cereals,Sorghum,Bag,90,KES3683.00,09/25/2015,0,35,0,90,25,9,2015,3683.0
+1077,Cereals,Wheat,Bag,90,KES3493.00,09/25/2015,0,39,0,90,25,9,2015,3493.0
+1078,Legumes,Beans Canadian,Bag,90,KES5939.00,09/25/2015,2,1,0,90,25,9,2015,5939.0
+1079,Legumes,Beans Rosecoco,Bag,90,KES5794.00,09/25/2015,2,3,0,90,25,9,2015,5794.0
+1080,Legumes,Beans Mwitemania,Bag,90,KES5171.00,09/25/2015,2,2,0,90,25,9,2015,5171.0
+1081,Legumes,Mwezi Moja,Bag,90,KES5367.00,09/25/2015,2,27,0,90,25,9,2015,5367.0
+1082,Legumes,Dolichos (Njahi),Bag,90,KES10751.00,09/25/2015,2,14,0,90,25,9,2015,10751.0
+1083,Legumes,Green Gram,Bag,90,KES9266.00,09/25/2015,2,18,0,90,25,9,2015,9266.0
+1084,Legumes,Cowpeas,Bag,90,KES6203.00,09/25/2015,2,12,0,90,25,9,2015,6203.0
+1085,Legumes,Fresh Peas,Bag,51,KES2192.00,09/25/2015,2,17,0,51,25,9,2015,2192.0
+1086,Legumes,Groundnuts,Bag,110,KES12575.00,09/25/2015,2,20,0,110,25,9,2015,12575.0
+1087,Roots & Tubers,Red Irish Potatoes,Bag,110,KES2518.00,09/25/2015,3,33,0,110,25,9,2015,2518.0
+1088,Roots & Tubers,White Irish Potatoes,Bag,110,KES2656.00,09/25/2015,3,40,0,110,25,9,2015,2656.0
+1089,Roots & Tubers,Cassava Fresh,Bag,99,KES1991.00,09/25/2015,3,8,0,99,25,9,2015,1991.0
+1090,Roots & Tubers,Sweet Potatoes,Bag,98,KES2801.00,09/25/2015,3,37,0,98,25,9,2015,2801.0
+1091,Cereals,Dry Maize,Bag,90,KES2718.00,10/25/2015,0,15,0,90,25,10,2015,2718.0
+1092,Cereals,Green Maize,Ext Bag,115,KES2490.00,10/25/2015,0,19,2,115,25,10,2015,2490.0
+1093,Cereals,Finger Millet,Bag,90,KES6598.00,10/25/2015,0,16,0,90,25,10,2015,6598.0
+1094,Cereals,Sorghum,Bag,90,KES3784.00,10/25/2015,0,35,0,90,25,10,2015,3784.0
+1095,Cereals,Wheat,Bag,90,KES3519.00,10/25/2015,0,39,0,90,25,10,2015,3519.0
+1096,Legumes,Beans Canadian,Bag,90,KES6125.00,10/25/2015,2,1,0,90,25,10,2015,6125.0
+1097,Legumes,Beans Rosecoco,Bag,90,KES6088.00,10/25/2015,2,3,0,90,25,10,2015,6088.0
+1098,Legumes,Beans Mwitemania,Bag,90,KES5603.00,10/25/2015,2,2,0,90,25,10,2015,5603.0
+1099,Legumes,Mwezi Moja,Bag,90,KES5617.00,10/25/2015,2,27,0,90,25,10,2015,5617.0
+1100,Legumes,Dolichos (Njahi),Bag,90,KES10546.00,10/25/2015,2,14,0,90,25,10,2015,10546.0
+1101,Legumes,Green Gram,Bag,90,KES9582.00,10/25/2015,2,18,0,90,25,10,2015,9582.0
+1102,Legumes,Cowpeas,Bag,90,KES6265.00,10/25/2015,2,12,0,90,25,10,2015,6265.0
+1103,Legumes,Fresh Peas,Bag,51,KES2587.00,10/25/2015,2,17,0,51,25,10,2015,2587.0
+1104,Legumes,Groundnuts,Bag,110,KES12691.00,10/25/2015,2,20,0,110,25,10,2015,12691.0
+1105,Roots & Tubers,Red Irish Potatoes,Bag,110,KES2975.00,10/25/2015,3,33,0,110,25,10,2015,2975.0
+1106,Roots & Tubers,White Irish Potatoes,Bag,110,KES3139.00,10/25/2015,3,40,0,110,25,10,2015,3139.0
+1107,Roots & Tubers,Cassava Fresh,Bag,99,KES1938.00,10/25/2015,3,8,0,99,25,10,2015,1938.0
+1108,Roots & Tubers,Sweet Potatoes,Bag,98,KES2895.00,10/25/2015,3,37,0,98,25,10,2015,2895.0
+1109,Cereals,Dry Maize,Bag,90,KES2669.00,11/25/2015,0,15,0,90,25,11,2015,2669.0
+1110,Cereals,Green Maize,Ext Bag,115,KES2599.00,11/25/2015,0,19,2,115,25,11,2015,2599.0
+1111,Cereals,Finger Millet,Bag,90,KES6687.00,11/25/2015,0,16,0,90,25,11,2015,6687.0
+1112,Cereals,Sorghum,Bag,90,KES3671.00,11/25/2015,0,35,0,90,25,11,2015,3671.0
+1113,Cereals,Wheat,Bag,90,KES3509.00,11/25/2015,0,39,0,90,25,11,2015,3509.0
+1114,Legumes,Beans Canadian,Bag,90,KES6109.00,11/25/2015,2,1,0,90,25,11,2015,6109.0
+1115,Legumes,Beans Rosecoco,Bag,90,KES6200.00,11/25/2015,2,3,0,90,25,11,2015,6200.0
+1116,Legumes,Beans Mwitemania,Bag,90,KES5746.00,11/25/2015,2,2,0,90,25,11,2015,5746.0
+1117,Legumes,Mwezi Moja,Bag,90,KES5811.00,11/25/2015,2,27,0,90,25,11,2015,5811.0
+1118,Legumes,Dolichos (Njahi),Bag,90,KES11256.00,11/25/2015,2,14,0,90,25,11,2015,11256.0
+1119,Legumes,Green Gram,Bag,90,KES10033.00,11/25/2015,2,18,0,90,25,11,2015,10033.0
+1120,Legumes,Cowpeas,Bag,90,KES6230.00,11/25/2015,2,12,0,90,25,11,2015,6230.0
+1121,Legumes,Fresh Peas,Bag,51,KES2967.00,11/25/2015,2,17,0,51,25,11,2015,2967.0
+1122,Legumes,Groundnuts,Bag,110,KES12881.00,11/25/2015,2,20,0,110,25,11,2015,12881.0
+1123,Roots & Tubers,Red Irish Potatoes,Bag,110,KES3566.00,11/25/2015,3,33,0,110,25,11,2015,3566.0
+1124,Roots & Tubers,White Irish Potatoes,Bag,110,KES3770.00,11/25/2015,3,40,0,110,25,11,2015,3770.0
+1125,Roots & Tubers,Cassava Fresh,Bag,99,KES2101.00,11/25/2015,3,8,0,99,25,11,2015,2101.0
+1126,Roots & Tubers,Sweet Potatoes,Bag,98,KES3000.00,11/25/2015,3,37,0,98,25,11,2015,3000.0
+1127,Cereals,Dry Maize,Bag,90,KES2610.00,12/25/2015,0,15,0,90,25,12,2015,2610.0
+1128,Cereals,Green Maize,Ext Bag,115,KES2535.00,12/25/2015,0,19,2,115,25,12,2015,2535.0
+1129,Cereals,Finger Millet,Bag,90,KES6469.00,12/25/2015,0,16,0,90,25,12,2015,6469.0
+1130,Cereals,Sorghum,Bag,90,KES3776.00,12/25/2015,0,35,0,90,25,12,2015,3776.0
+1131,Cereals,Wheat,Bag,90,KES3768.00,12/25/2015,0,39,0,90,25,12,2015,3768.0
+1132,Legumes,Beans Canadian,Bag,90,KES6031.00,12/25/2015,2,1,0,90,25,12,2015,6031.0
+1133,Legumes,Beans Rosecoco,Bag,90,KES6123.00,12/25/2015,2,3,0,90,25,12,2015,6123.0
+1134,Legumes,Beans Mwitemania,Bag,90,KES5727.00,12/25/2015,2,2,0,90,25,12,2015,5727.0
+1135,Legumes,Mwezi Moja,Bag,90,KES5715.00,12/25/2015,2,27,0,90,25,12,2015,5715.0
+1136,Legumes,Dolichos (Njahi),Bag,90,KES12622.00,12/25/2015,2,14,0,90,25,12,2015,12622.0
+1137,Legumes,Green Gram,Bag,90,KES9962.00,12/25/2015,2,18,0,90,25,12,2015,9962.0
+1138,Legumes,Cowpeas,Bag,90,KES6239.00,12/25/2015,2,12,0,90,25,12,2015,6239.0
+1139,Legumes,Fresh Peas,Bag,51,KES3582.00,12/25/2015,2,17,0,51,25,12,2015,3582.0
+1140,Legumes,Groundnuts,Bag,110,KES12986.00,12/25/2015,2,20,0,110,25,12,2015,12986.0
+1141,Roots & Tubers,Red Irish Potatoes,Bag,110,KES2805.00,12/25/2015,3,33,0,110,25,12,2015,2805.0
+1142,Roots & Tubers,White Irish Potatoes,Bag,110,KES2885.00,12/25/2015,3,40,0,110,25,12,2015,2885.0
+1143,Roots & Tubers,Cassava Fresh,Bag,99,KES2097.00,12/25/2015,3,8,0,99,25,12,2015,2097.0
+1144,Roots & Tubers,Sweet Potatoes,Bag,98,KES3067.00,12/25/2015,3,37,0,98,25,12,2015,3067.0
